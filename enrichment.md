@@ -1,1 +1,2 @@
-
+VIRTUE THIS WEEK: Silence
+CHALLENGE:
