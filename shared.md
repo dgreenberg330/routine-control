@@ -3,7 +3,7 @@ STANDING PREFERENCES:
 ENRICHMENT TELEGRAM OFFSET: 108203888
 MARKET-BRIEF TELEGRAM OFFSET: 108203888
 MIDDAY TELEGRAM OFFSET: 108203888
-EVENING TELEGRAM OFFSET: 108203888
+EVENING TELEGRAM OFFSET: 108203889
 NOTES:
 - [enrichment] Quote of the day doesn't need to tie to the weekly virtue.
 - [enrichment] Weekly virtues are based on Ben Franklin's virtue list — use those definitions.
