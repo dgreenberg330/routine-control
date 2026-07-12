@@ -11,3 +11,6 @@ SKILL LESSON PROGRESS:
 - Lesson 4 (2026-07-10): storytelling & narrative craft — The Ghost/Wound (the specific backstory event that planted the Lie, and why naming it makes the Lie feel earned instead of arbitrary)
 - Lesson 5 (2026-07-11): storytelling & narrative craft — The Turning Point / Break into Two (the active choice to pursue the Want that ends the reactive setup and starts the story proper, even while the Lie still steers the character wrong)
 - Lesson 6 (2026-07-12): storytelling & narrative craft — The B Story (the secondary relationship or plotline the protagonist picks up just after breaking into the new world; it usually embodies the theme and gives them a place to test the Lie safely before the A Story forces the real confrontation)
+
+NOTES:
+- Brainstorm session 07-11 and 07-12 and skill lessons 5 and 6 were skipped. Reuse 7-11 and 5 until confirmation it was completed than move to 7-12 and 6 until confirmation completed.
