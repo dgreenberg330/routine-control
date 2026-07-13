@@ -1,5 +1,5 @@
-VIRTUE THIS WEEK: Love.
-CHALLENGE: Spend 10 minutes each morning in silence — no phone, no music — before starting your day.
+VIRTUE THIS WEEK: (not yet set for this week — asked Derek on 2026-07-13)
+CHALLENGE: Each day this week, spend 15 minutes reading something outside your usual field — history, philosophy, or science — just for the pleasure of learning.
 VIRTUE DEFINITIONS:
 - Temperance: Eat not to dullness; drink not to elevation. Practice moderation. Silence: Speak not but what may benefit others or yourself; avoid trifling conversation.
 - Resolution: Resolve to perform what you ought; perform without fail what you resolve. Persist until you succeed, see your tasks through to completion.
