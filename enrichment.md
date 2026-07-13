@@ -1,4 +1,4 @@
-VIRTUE THIS WEEK: (not yet set for this week — asked Derek on 2026-07-13)
+VIRTUE THIS WEEK: Love.
 CHALLENGE: Each day this week, spend 15 minutes reading something outside your usual field — history, philosophy, or science — just for the pleasure of learning.
 VIRTUE DEFINITIONS:
 - Temperance: Eat not to dullness; drink not to elevation. Practice moderation. Silence: Speak not but what may benefit others or yourself; avoid trifling conversation.
