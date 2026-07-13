@@ -40,9 +40,10 @@ FEED_L = f"{BASE}/nyct%2Fgtfs-l"          # L
 SIX_STOP = "630S"
 #
 # 14th St-Union Sq (Canarsie line), Brooklyn-bound L.
-# The L runs 8th Av <-> Canarsie. Brooklyn-bound may be "N" on this line.
-# THIS IS THE MOST LIKELY THING TO BE WRONG. Verify it.
-L_STOP = "L03N"
+# The L runs 8th Av <-> Canarsie. Verified against the realtime feed:
+# L03S continues to L05/L06/L08/L10 (toward Lorimer/Canarsie) = Brooklyn-bound.
+# L03N heads to L02/L01 (toward 8 Av) = Manhattan-bound. So Brooklyn-bound is "S".
+L_STOP = "L03S"
 
 # Stations on the L between Union Sq and Lorimer St, inclusive. Used to decide
 # whether an L alert actually touches the leg of the line being ridden.
