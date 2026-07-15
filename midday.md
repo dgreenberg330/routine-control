@@ -4,6 +4,7 @@ BRAINSTORM DOMAIN HISTORY:
 - 2026-07-12: creative concepts (new restaurant categories built around one wild constraint)
 - 2026-07-13: creative concepts (REPEAT of 07-12 — restaurant categories w/ one wild constraint; still no confirmation prior session was completed)
 - 2026-07-14: ways to improve something I use (rebuild-it-from-scratch challenge on a daily tool/app/object)
+- 2026-07-15: solutions to a problem (annoyance-elimination ladder, $5 fix to $50k fix to unbuilt fix)
 
 NOTES:
 - Thursday 2026-07-16: per Telegram request (2026-07-13), remind Derek about NFLX earnings after the close in that day's midday brainstorm message.
