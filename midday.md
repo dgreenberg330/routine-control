@@ -5,6 +5,7 @@ BRAINSTORM DOMAIN HISTORY:
 - 2026-07-14: ways to improve something I use (rebuild-it-from-scratch challenge on a daily tool/app/object)
 - 2026-07-15: solutions to a problem (annoyance-elimination ladder, $5 fix to $50k fix to unbuilt fix)
 - 2026-07-16: investment angles (unsexy/overlooked assets smart money is ignoring)
+- 2026-07-17: business/startup ideas ($10-to-$1,000-in-48-hours money-flip challenge)
 
 NOTES:
-- (none — 2026-07-13 NFLX-earnings reminder request fulfilled in the 2026-07-16 midday message)
+- 2026-07-17: Derek flagged via Telegram — "Don't repeat brainstorm topics. You already did this one," referencing the 07-13 repeat. Standing instruction going forward: always cross-check this history before picking a domain/angle, and never reuse the same domain+angle combo. (No repeats have occurred since 07-13.)
