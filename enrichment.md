@@ -1,5 +1,5 @@
-VIRTUE THIS WEEK: Love.
-CHALLENGE: Each day this week, spend 15 minutes reading Seven Brief Lessons on Physics (Rovelli).
+VIRTUE THIS WEEK: Industry.
+CHALLENGE: Each day this week, complete your single most important task before checking email, messages, or social media.
 VIRTUE DEFINITIONS:
 - Temperance: Eat not to dullness; drink not to elevation. Practice moderation. Silence: Speak not but what may benefit others or yourself; avoid trifling conversation.
 - Resolution: Resolve to perform what you ought; perform without fail what you resolve. Persist until you succeed, see your tasks through to completion.
