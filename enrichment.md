@@ -1,5 +1,5 @@
 VIRTUE THIS WEEK: Industry.
-CHALLENGE: Each day this week, complete your single most important task before checking email, messages, or social media.
+CHALLENGE: Each day this week, spend the first 30 minutes after waking up completely screen-free — no phone, email, or news — before starting anything else.
 VIRTUE DEFINITIONS:
 - Temperance: Eat not to dullness; drink not to elevation. Practice moderation. Silence: Speak not but what may benefit others or yourself; avoid trifling conversation.
 - Resolution: Resolve to perform what you ought; perform without fail what you resolve. Persist until you succeed, see your tasks through to completion.
