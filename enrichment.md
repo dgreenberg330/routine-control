@@ -1,5 +1,5 @@
-VIRTUE THIS WEEK: Mindfulness.
-CHALLENGE: Each day this week, pause for one full minute of quiet, phone-free breathing before each meal — three brief mindfulness resets a day.
+VIRTUE THIS WEEK: Cleanliness.
+CHALLENGE: Do one 15-minute decluttering sprint each day this week — pick a single drawer, shelf, inbox, or surface and get it to zero clutter before moving on.
 VIRTUE DEFINITIONS:
 - Temperance: Eat not to dullness; drink not to elevation. Practice moderation. Silence: Speak not but what may benefit others or yourself; avoid trifling conversation.
 - Resolution: Resolve to perform what you ought; perform without fail what you resolve. Persist until you succeed, see your tasks through to completion.
