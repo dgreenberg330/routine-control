@@ -1,5 +1,5 @@
 VIRTUE THIS WEEK: Cleanliness.
-CHALLENGE: refer to your hand picked challenge.
+CHALLENGE: Refer to your hand picked challenge.
 VIRTUE DEFINITIONS:
 - Temperance: Eat not to dullness; drink not to elevation. Practice moderation. Silence: Speak not but what may benefit others or yourself; avoid trifling conversation.
 - Resolution: Resolve to perform what you ought; perform without fail what you resolve. Persist until you succeed, see your tasks through to completion.
