@@ -12,3 +12,4 @@ NOTES:
 - Derek noted (8/8 Telegram) VET is no longer in his portfolio — for the evening routine's bear case prompt on Fridays, drop VET.
 - Midday routine checked Telegram at offset 108203922 on 2026-08-09; no new updates.
 - Evening routine checked Telegram at offset 108203922 on 2026-08-09; no new updates.
+- Market-brief routine checked Telegram at offset 108203922 on 2026-08-10; no new updates.
