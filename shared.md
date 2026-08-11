@@ -1,6 +1,6 @@
 STANDING PREFERENCES:
 ENRICHMENT TELEGRAM OFFSET: 108203922
-MARKET-BRIEF TELEGRAM OFFSET: 108203922
+MARKET-BRIEF TELEGRAM OFFSET: 108203923
 MIDDAY TELEGRAM OFFSET: 108203923
 EVENING TELEGRAM OFFSET: 108203923
 NOTES:
@@ -13,3 +13,4 @@ NOTES:
 - Enrichment routine checked Telegram at offset 108203922 on 2026-08-10; no new updates.
 - Enrichment: per Derek's 8/5 confirmation, weekly challenge auto-proposing resumed this Monday (8/10) using the saved decluttering idea — enrichment.md CHALLENGE updated accordingly. Auto-proposing continues normally next Monday.
 - Enrichment: this week's (starting 8/10) virtue was NOT reconfirmed by Derek until 8/10 Telegram update 108203923 ("set the virtue to love") — enrichment routine should update enrichment.md to Love on its next run.
+- Market-brief routine checked Telegram at offset 108203923 on 2026-08-11; update 108203923 ("set the virtue to love") is an enrichment-routine setting, not market-relevant — ignored. No market-brief settings changed.
