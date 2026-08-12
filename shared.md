@@ -1,5 +1,5 @@
 STANDING PREFERENCES:
-ENRICHMENT TELEGRAM OFFSET: 108203923
+ENRICHMENT TELEGRAM OFFSET: 108203924
 MARKET-BRIEF TELEGRAM OFFSET: 108203924
 MIDDAY TELEGRAM OFFSET: 108203924
 EVENING TELEGRAM OFFSET: 108203924
@@ -13,3 +13,4 @@ NOTES:
 - Midday routine checked Telegram at offset 108203924 on 2026-08-11; update 108203924 ("In next Mondays enrichment prompt, remind me to update transit prompt and add an events page for roadmap reminders") is an enrichment-routine setting, not midday-relevant — left untouched for the enrichment routine to process on its own offset.
 - Evening routine checked Telegram at offset 108203924 on 2026-08-11; update 108203924 ("In next Mondays enrichment prompt, remind me to update transit prompt and add an events page for roadmap reminders") is an enrichment-routine setting, not evening-relevant — ignored. No evening settings changed.
 - Market-brief routine checked Telegram at offset 108203924 on 2026-08-12; update 108203924 ("In next Mondays enrichment prompt, remind me to update transit prompt and add an events page for roadmap reminders") is an enrichment-routine setting, not market-relevant — ignored. No market-brief settings changed.
+- Enrichment: Derek asked (8/11 Telegram) to be reminded, in next Monday's enrichment briefing, to update the transit prompt and add an events page for roadmap reminders. Surface this reminder on the next Monday run (8/17), then this note can be cleared.
