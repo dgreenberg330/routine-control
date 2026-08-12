@@ -1,6 +1,6 @@
 STANDING PREFERENCES:
 ENRICHMENT TELEGRAM OFFSET: 108203923
-MARKET-BRIEF TELEGRAM OFFSET: 108203923
+MARKET-BRIEF TELEGRAM OFFSET: 108203924
 MIDDAY TELEGRAM OFFSET: 108203924
 EVENING TELEGRAM OFFSET: 108203924
 NOTES:
@@ -12,3 +12,4 @@ NOTES:
 - Enrichment: this week's (starting 8/10) virtue confirmed via 8/10 Telegram update 108203923 ("set the virtue to love") — enrichment.md updated to Love on 8/11 run.
 - Midday routine checked Telegram at offset 108203924 on 2026-08-11; update 108203924 ("In next Mondays enrichment prompt, remind me to update transit prompt and add an events page for roadmap reminders") is an enrichment-routine setting, not midday-relevant — left untouched for the enrichment routine to process on its own offset.
 - Evening routine checked Telegram at offset 108203924 on 2026-08-11; update 108203924 ("In next Mondays enrichment prompt, remind me to update transit prompt and add an events page for roadmap reminders") is an enrichment-routine setting, not evening-relevant — ignored. No evening settings changed.
+- Market-brief routine checked Telegram at offset 108203924 on 2026-08-12; update 108203924 ("In next Mondays enrichment prompt, remind me to update transit prompt and add an events page for roadmap reminders") is an enrichment-routine setting, not market-relevant — ignored. No market-brief settings changed.
