@@ -16,3 +16,4 @@ NOTES:
 - Enrichment: Derek asked (8/11 Telegram) to be reminded, in next Monday's enrichment briefing, to update the transit prompt and add an events page for roadmap reminders. Surface this reminder on the next Monday run (8/17), then this note can be cleared.
 - Midday routine checked Telegram at offset 108203924 on 2026-08-12; getUpdates returned empty (no new messages). No midday setting change.
 - Evening routine checked Telegram at offset 108203924 on 2026-08-12; getUpdates returned empty (no new messages). No evening setting change. Sent Wed transit brief + pescetarian/tree-nut-free dinner ideas.
+- Market-brief routine checked Telegram at offset 108203924 on 2026-08-13; getUpdates returned empty (no new messages). No market-brief setting change.
