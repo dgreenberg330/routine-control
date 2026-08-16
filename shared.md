@@ -28,3 +28,4 @@ NOTES:
 - Enrichment routine checked Telegram at offset 108203924 on 2026-08-15; getUpdates returned empty (no new messages). No enrichment setting change. Sent Sat virtue/challenge reminder briefing.
 - Midday routine checked Telegram at offset 108203924 on 2026-08-15; getUpdates returned empty (no new messages). No midday setting change. Sent Sat impossible-location brainstorm prompt.
 - Evening routine checked Telegram at offset 108203924 on 2026-08-15; getUpdates returned empty (no new messages). No evening setting change. Sent Sat Philly sports recap (Phillies 3-3 week capped by Field of Dreams win over Twins; Sixers/Flyers in offseason).
+- Market-brief routine checked Telegram at offset 108203924 on 2026-08-16; getUpdates returned empty (no new messages). No market-brief setting change. Sent Sun overnight/portfolio brief (Ukraine-Russia drone/missile escalation; no material portfolio news).
