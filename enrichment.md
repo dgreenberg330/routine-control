@@ -1,5 +1,5 @@
-VIRTUE THIS WEEK: Love.
-CHALLENGE: One 15-minute decluttering sprint each day — pick a single drawer/shelf/inbox/surface and get it to zero clutter.
+VIRTUE THIS WEEK: (unset — awaiting Derek's confirmation for week of 8/17)
+CHALLENGE: Take a 10-minute phone-free walk after dinner, every day this week.
 VIRTUE DEFINITIONS:
 - Temperance: Eat not to dullness; drink not to elevation. Practice moderation. Silence: Speak not but what may benefit others or yourself; avoid trifling conversation.
 - Resolution: Resolve to perform what you ought; perform without fail what you resolve. Persist until you succeed, see your tasks through to completion.
