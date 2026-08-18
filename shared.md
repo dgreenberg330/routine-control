@@ -1,6 +1,6 @@
 STANDING PREFERENCES:
 ENRICHMENT TELEGRAM OFFSET: 108203924
-MARKET-BRIEF TELEGRAM OFFSET: 108203924
+MARKET-BRIEF TELEGRAM OFFSET: 108203925
 MIDDAY TELEGRAM OFFSET: 108203925
 EVENING TELEGRAM OFFSET: 108203925
 NOTES:
@@ -35,3 +35,4 @@ NOTES:
 - Enrichment routine checked Telegram at offset 108203924 on 2026-08-17; getUpdates returned empty (no new messages). No enrichment setting change. New week: proposed fresh challenge (10-minute phone-free walk after dinner, daily) and updated enrichment.md CHALLENGE. No virtue set via Telegram for week of 8/17 — asked Derek to confirm rather than guessing; enrichment.md VIRTUE THIS WEEK marked unset pending his reply. Surfaced the queued Monday reminder (update transit prompt, add events page for roadmap reminders) in today's briefing — this note is now cleared.
 - Midday routine checked Telegram at offset 108203924 on 2026-08-17; new message found (update 108203925: "Set virtue in morning enrichment prompt to active") — an enrichment-routine setting, not midday-relevant. Left untouched for the enrichment routine to process on its own offset; no midday setting change, so no Telegram ack sent. Note: this conflicts with the enrichment routine's own note above that no virtue was set via Telegram for the week of 8/17 — the enrichment routine should pick this up on its next run and set virtue to "active." Sent Mon second-order-winners brainstorm prompt.
 - Evening routine checked Telegram at offset 108203924 on 2026-08-17; new message found (update 108203925: "Set virtue in morning enrichment prompt to active") — an enrichment-routine setting, not evening-relevant. Ignored; no evening setting change, so no Telegram ack sent. Advanced EVENING TELEGRAM OFFSET to 108203925. Sent Mon earnings calendar (retail-heavy week: Home Depot Tue, Target/Lowe's/TJX Wed, Walmart Thu) + this-week US econ events (FOMC July minutes Wed, Jackson Hole/Warsh Fri). Flagged that none of Derek's tickers report this week — all already reported Q2 (CME/PFE/UPS/NWL/QXO/SRAD); LULU next, ~Aug 27 or Sep 4.
+- Market-brief routine checked Telegram at offset 108203924 on 2026-08-18; update 108203925 ("Set virtue in morning enrichment prompt to active") is an enrichment-routine setting, not market-relevant — ignored. No market-brief setting change. Advanced MARKET-BRIEF TELEGRAM OFFSET to 108203925. Sent Tue overnight/portfolio brief (semi-led tech pullback, oil up on dimming Mideast peace prospects; no material portfolio news; flagged LULU reports Q2 Aug 27, next week).
