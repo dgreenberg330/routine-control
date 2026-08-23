@@ -1,11 +1,10 @@
-Aug 22 (Sat): Rocky training 10:30 AM, Eagles 7:00 pm
 Aug 28 (Fri): Eagles 8:00 pm
 
 Sep 7 (Mon): Sierra Bday, Labor Day
 Sep 12 (Sat): Rosh Hashanah 
 Sep 13 (Sun): Eagles 4:25 PM
 Sep 14 (Mon): HC wainwright night 
-Sep 19 (Sat): Mets Phillies
+Sep 19 (Sat): Mets Phillies 4:00 PM
 Sep 20 (Sun): Eagles 1:00 PM
 Sep 21 (Mon): Yom Kippur
 Sep 27 (Sun): Group football sesh (i schedule)
@@ -25,6 +24,7 @@ Oct 31 (Sat): Halloween
 Nov 1 (Sun): Eagles 8:20 PM
 Nov 7 (Sat): Lyla and Ben wedding
 Nov 8 (Sun): Eagles 1:00 PM
+Nov 16 (Mon): 13-F filing deadline
 Nov 18 (Wed): Jons bday
 Nov 21 (Sat): Poker? (i schedule)
 Nov 22 (Sun): Eagles 4:25 PM
