@@ -1,5 +1,6 @@
 Aug 28 (Fri): Eagles 8:00 pm
 
+Sep 6 (Sun): Shrav bday
 Sep 7 (Mon): Sierra Bday, Labor Day
 Sep 12 (Sat): Rosh Hashanah 
 Sep 13 (Sun): Eagles 4:25 PM
