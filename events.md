@@ -1,4 +1,6 @@
+Aug 27 (Thu): Happy Hour?
 Aug 28 (Fri): Eagles 8:00 pm
+Aug 30 (Sun): Fantasy draft 7:00 PM
 
 Sep 6 (Sun): Shrav bday
 Sep 7 (Mon): Sierra Bday, Labor Day
