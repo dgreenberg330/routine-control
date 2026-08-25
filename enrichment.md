@@ -1,4 +1,4 @@
-VIRTUE THIS WEEK: NOT SET for week of Aug 24 — asked via Telegram 8/24. (Last set: Active, week of 8/17, update 108203925.)
+VIRTUE THIS WEEK: Silence — week of Aug 24 (set via Telegram 8/25, update 108203930). (Last set: Active, week of 8/17, update 108203925.)
 CHALLENGE (week of Mon Aug 24 – Sun Aug 30): Each night before bed, write three sentences on one thing you learned or noticed that day. Seven entries by Sunday.
 EVENTS FORMAT (set via Telegram 8/24, update 108203929): List events as bullets grouped by TODAY (with day) / This week / Next month, each line as "• Day Mon DD — event time". Example:
   6) EVENTS
