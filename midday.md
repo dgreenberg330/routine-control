@@ -4,5 +4,6 @@ BRAINSTORM DOMAIN HISTORY:
 2026-08-26: invented units of measurement — devising new measurement units for intangible things (regret, awkward silence, etc.)
 2026-08-27: invented superpowers — a wildly impractical superpower paired with the mundane downside it causes
 2026-08-28: invented conspiracy theories — outlandish, overconfident-sounding conspiracy theories explaining totally mundane everyday phenomena
+2026-08-29: invented emoji/texting symbols — new icons for real feelings or social moments that have no symbol yet
 
 NOTES:
