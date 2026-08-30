@@ -5,5 +5,6 @@ BRAINSTORM DOMAIN HISTORY:
 2026-08-27: invented superpowers — a wildly impractical superpower paired with the mundane downside it causes
 2026-08-28: invented conspiracy theories — outlandish, overconfident-sounding conspiracy theories explaining totally mundane everyday phenomena
 2026-08-29: invented emoji/texting symbols — new icons for real feelings or social moments that have no symbol yet
+2026-08-30: invented body language/silent signals — new hand signals or micro-expressions for social moments that have no current signal
 
 NOTES:
