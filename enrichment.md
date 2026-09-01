@@ -1,4 +1,4 @@
-VIRTUE THIS WEEK: (not set for week of Aug 31 — asked via Telegram 8/31, awaiting reply.) (Last set: Silence, week of 8/24, update 108203930; Active, week of 8/17, update 108203925.)
+VIRTUE THIS WEEK: Love (week of Aug 31, set via Telegram 9/1, update 108203932). (Last set: Silence, week of 8/24, update 108203930; Active, week of 8/17, update 108203925.)
 CHALLENGE (week of Mon Aug 31 – Sun Sep 6): Phone stays out of reach for the first 30 minutes after waking — no screen until you've been up half an hour. Seven mornings straight.
 TRAVEL LOCATION: (none)
 EVENTS FORMAT (set via Telegram 8/24, update 108203929): List events as bullets grouped by TODAY (with day) / This week / Next month, each line as "• Day Mon DD — event time". Example:
