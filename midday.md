@@ -8,5 +8,6 @@ BRAINSTORM DOMAIN HISTORY:
 2026-08-30: invented body language/silent signals — new hand signals or micro-expressions for social moments that have no current signal
 2026-08-31: business/startup ideas — pitching services built around monetizing failure/failing faster, framing failure itself as the paid product
 2026-09-01: solutions to a problem — wild fixes for eliminating awkward small-talk silences (elevators, waiting rooms, etc.)
+2026-09-02: invented professions/jobs — hyper-specific niche jobs that don't exist yet but obviously should, title + one-line duties each
 
 NOTES:
