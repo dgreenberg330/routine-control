@@ -10,6 +10,7 @@ BRAINSTORM DOMAIN HISTORY:
 2026-09-01: solutions to a problem — wild fixes for eliminating awkward small-talk silences (elevators, waiting rooms, etc.)
 2026-09-02: invented professions/jobs — hyper-specific niche jobs that don't exist yet but obviously should, title + one-line duties each
 2026-09-03: invented professions/jobs — hyper-specific niche jobs that don't exist yet but obviously should, title + one-line duties each (reused from 9/2 per user's Telegram request)
+2026-09-04: invented world records — absurd, pointless-but-impressive new Guinness-style record categories, plus the ideal person to hold each one
 
 NOTES:
 2026-09-03: user asked via Telegram (sent 9/2) to reuse the 9/2 midday brainstorm prompt for 9/3 — done, see domain history above.
