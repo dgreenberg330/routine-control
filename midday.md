@@ -11,6 +11,7 @@ BRAINSTORM DOMAIN HISTORY:
 2026-09-02: invented professions/jobs — hyper-specific niche jobs that don't exist yet but obviously should, title + one-line duties each
 2026-09-03: invented professions/jobs — hyper-specific niche jobs that don't exist yet but obviously should, title + one-line duties each (reused from 9/2 per user's Telegram request)
 2026-09-04: invented world records — absurd, pointless-but-impressive new Guinness-style record categories, plus the ideal person to hold each one
+2026-09-05: invented currencies — absurd non-monetary things people would legitimately accept as payment, each named with what it's worth trading for
 
 NOTES:
 2026-09-03: user asked via Telegram (sent 9/2) to reuse the 9/2 midday brainstorm prompt for 9/3 — done, see domain history above.
