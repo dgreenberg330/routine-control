@@ -1,4 +1,3 @@
-Sep 7 (Mon): Sierra Bday, Labor Day
 Sep 12 (Sat): Rosh Hashanah 
 Sep 13 (Sun): Eagles 4:25 PM
 Sep 14 (Mon): HC wainwright night 
