@@ -1,4 +1,4 @@
-VIRTUE THIS WEEK: (not yet set for week of Sep 7 — asked via Telegram 9/7). (Last set: Love, week of 8/31, update 108203932; Silence, week of 8/24, update 108203930; Active, week of 8/17, update 108203925.)
+VIRTUE THIS WEEK: Resolution (set via Telegram 9/9, update 108203934). (Last set: Love, week of 8/31, update 108203932; Silence, week of 8/24, update 108203930; Active, week of 8/17, update 108203925.)
 CHALLENGE (week of Mon Sep 7 – Sun Sep 13): Reconnect daily — each day, reach out to one person you haven't spoken with in six months or more. A real message or call, not a like or a react. Seven people by Sunday.
 TRAVEL LOCATION: (none)
 EVENTS FORMAT (set via Telegram 8/24, update 108203929): List events as bullets grouped by TODAY (with day) / This week / Next month, each line as "• Day Mon DD — event time". Example:
