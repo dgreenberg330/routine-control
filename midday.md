@@ -15,6 +15,7 @@ BRAINSTORM DOMAIN HISTORY:
 2026-09-06: invented secret societies — absurd secret societies built around one hyper-specific shared trait or coincidence, plus each one's secret handshake/initiation ritual
 2026-09-07: invented human senses — a brand-new sense beyond the classic five, paired with the one mundane daily moment it would ruin or transform
 2026-09-08: invented urban cryptids — a new mythical creature that haunts a hyper-specific mundane modern location, paired with the oddly specific thing it does to whoever encounters it
+2026-09-09: invented food mashups — a fusion dish engineered for one absurdly specific craving or mood, paired with the exact real-life moment it would save
 
 NOTES:
 2026-09-03: user asked via Telegram (sent 9/2) to reuse the 9/2 midday brainstorm prompt for 9/3 — done, see domain history above.
