@@ -18,6 +18,7 @@ BRAINSTORM DOMAIN HISTORY:
 2026-09-09: invented food mashups — a fusion dish engineered for one absurdly specific craving or mood, paired with the exact real-life moment it would save
 2026-09-10: invented candle scents — a candle scent engineered to capture one hyper-specific, weirdly emotional life moment, named + described
 2026-09-11: invented musical genres — a new music genre engineered for one absurdly specific mood/life moment, paired with the song title that would headline its debut album
+2026-09-12: alternate history ripples — a tiny, weird change to a random moment in history, paired with the one strange way it would still be rippling into an ordinary day in 2026
 
 NOTES:
 2026-09-03: user asked via Telegram (sent 9/2) to reuse the 9/2 midday brainstorm prompt for 9/3 — done, see domain history above.
