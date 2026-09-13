@@ -19,6 +19,7 @@ BRAINSTORM DOMAIN HISTORY:
 2026-09-10: invented candle scents — a candle scent engineered to capture one hyper-specific, weirdly emotional life moment, named + described
 2026-09-11: invented musical genres — a new music genre engineered for one absurdly specific mood/life moment, paired with the song title that would headline its debut album
 2026-09-12: alternate history ripples — a tiny, weird change to a random moment in history, paired with the one strange way it would still be rippling into an ordinary day in 2026
+2026-09-13: fake product recall notices — deadpan-serious official recall notices inventing a bizarre, oddly specific defect just discovered in a totally ordinary household object (narrative/document format, a break from the "invented category + pairing" pattern used most days this month)
 
 NOTES:
 2026-09-03: user asked via Telegram (sent 9/2) to reuse the 9/2 midday brainstorm prompt for 9/3 — done, see domain history above.
