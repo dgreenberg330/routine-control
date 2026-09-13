@@ -1,4 +1,3 @@
-Sep 12 (Sat): Rosh Hashanah 
 Sep 13 (Sun): Eagles 4:25 PM
 Sep 14 (Mon): HC wainwright night 
 Sep 19 (Sat): Mets Phillies 4:00 PM
