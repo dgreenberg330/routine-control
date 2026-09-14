@@ -1,4 +1,3 @@
-Sep 13 (Sun): Eagles 4:25 PM
 Sep 14 (Mon): HC wainwright night 
 Sep 19 (Sat): Mets Phillies 4:00 PM
 Sep 20 (Sun): Eagles 1:00 PM
