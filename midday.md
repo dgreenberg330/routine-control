@@ -21,6 +21,7 @@ BRAINSTORM DOMAIN HISTORY:
 2026-09-12: alternate history ripples — a tiny, weird change to a random moment in history, paired with the one strange way it would still be rippling into an ordinary day in 2026
 2026-09-13: fake product recall notices — deadpan-serious official recall notices inventing a bizarre, oddly specific defect just discovered in a totally ordinary household object (narrative/document format, a break from the "invented category + pairing" pattern used most days this month)
 2026-09-14: invented zodiac signs — a new 13th zodiac sign built around one absurdly specific modern personality quirk, paired with the sign it's romantically incompatible with
+2026-09-15: personified everyday objects — deadpan formal HR complaints filed by 10+ ordinary household/office objects against humans, each naming one absurd specific grievance (personification/complaint-letter format, a break from the "invented category + pairing" pattern used most days this month)
 
 NOTES:
 2026-09-03: user asked via Telegram (sent 9/2) to reuse the 9/2 midday brainstorm prompt for 9/3 — done, see domain history above.
