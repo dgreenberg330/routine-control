@@ -1,6 +1,6 @@
 VIRTUE THIS WEEK: Cleanliness — week of Mon Sep 14 – Sun Sep 20 (set via Telegram 9/15, update 108203937). (Last set: Resolution, week of 9/7, update 108203934; Love, week of 8/31, update 108203932; Silence, week of 8/24, update 108203930; Active, week of 8/17, update 108203925.)
 CHALLENGE (week of Mon Sep 14 – Sun Sep 20): Screen-free first hour — each morning, no phone, email, or screen for the first 60 minutes after waking. Read, walk, write, or sit with coffee instead. Seven mornings by Sunday.
-TRAVEL LOCATION: Dennis, MA (41.735, -70.194) — set via Telegram 9/14, update 108203936. In Dennis through Thursday night 9/17; Newton, MA (42.337, -71.209) Friday morning 9/18; home to Williamsburg Friday afternoon 9/18. Use Dennis Mon 9/14 – Thu 9/17, Newton Fri 9/18 morning, then clear (home) from Sat 9/19.
+TRAVEL LOCATION: none — home in Williamsburg. (MA trip Mon 9/14 – Fri 9/18 complete: Dennis Mon–Thu, Newton Fri morning, home Friday afternoon 9/18. Cleared 9/18.)
 EVENTS FORMAT (set via Telegram 8/24, update 108203929): List events as bullets grouped by TODAY (with day) / This week / Next month, each line as "• Day Mon DD — event time". Example:
   6) EVENTS
   TODAY (Sat):
