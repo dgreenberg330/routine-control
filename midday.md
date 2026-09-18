@@ -24,6 +24,7 @@ BRAINSTORM DOMAIN HISTORY:
 2026-09-15: personified everyday objects — deadpan formal HR complaints filed by 10+ ordinary household/office objects against humans, each naming one absurd specific grievance (personification/complaint-letter format, a break from the "invented category + pairing" pattern used most days this month)
 2026-09-16: invented roadside attractions — tourist-trap attractions for towns that don't exist, each paired with the oddly specific tagline on its entrance sign
 2026-09-17: invented museum exhibits — absurdly niche museum wings dedicated to something utterly mundane, paired with the pretentious placard description explaining why it deserves reverence
+2026-09-18: invented apocalypse triggers — an absurdly mundane everyday object or habit that finally breaks civilization, paired with the oddly specific tactic that lets humanity limp on afterward
 
 NOTES:
 2026-09-03: user asked via Telegram (sent 9/2) to reuse the 9/2 midday brainstorm prompt for 9/3 — done, see domain history above.
