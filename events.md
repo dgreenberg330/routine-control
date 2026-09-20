@@ -1,4 +1,3 @@
-Sep 19 (Sat): Mets Phillies 4:00 PM
 Sep 20 (Sun): Eagles 1:00 PM
 Sep 21 (Mon): Yom Kippur
 Sep 27 (Sun): Group football sesh (i schedule)
