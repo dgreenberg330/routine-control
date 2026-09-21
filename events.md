@@ -1,4 +1,3 @@
-Sep 20 (Sun): Eagles 1:00 PM
 Sep 21 (Mon): Yom Kippur
 Sep 27 (Sun): Group football sesh (i schedule)
 Sep 28 (Mon): Eagles 8:15 PM
