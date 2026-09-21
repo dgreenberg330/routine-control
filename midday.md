@@ -27,6 +27,7 @@ BRAINSTORM DOMAIN HISTORY:
 2026-09-18: invented apocalypse triggers — an absurdly mundane everyday object or habit that finally breaks civilization, paired with the oddly specific tactic that lets humanity limp on afterward
 2026-09-19: fake WikiHow-style "how-to" guides — absurdly hyper-specific "How to ___" guides for scenarios nobody has ever needed instructions for, each paired with one deliciously specific numbered step that reveals it's unhinged (instructional/list format, a break from the "invented category + pairing" pattern used most days this month)
 2026-09-20: invented superstitions — a modern, hyper-specific superstition with an oddly specific origin story, paired with the exact everyday moment that triggers it
+2026-09-21: invented alien first-contact protocols — a bizarrely specific etiquette rule for the day humanity finally meets aliens, paired with the ordinary human habit that would completely horrify them
 
 NOTES:
 2026-09-03: user asked via Telegram (sent 9/2) to reuse the 9/2 midday brainstorm prompt for 9/3 — done, see domain history above.
