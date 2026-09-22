@@ -1,7 +1,7 @@
-Sep 21 (Mon): Yom Kippur
 Sep 27 (Sun): Group football sesh (i schedule)
 Sep 28 (Mon): Eagles 8:15 PM
 
+Oct 1 (Thu): Small Cap Showcase Conference
 Oct 4 (Sun): Eagles 1:00 PM
 Oct 6 (Tue): D's bday
 Oct 10 (Sat): Grandma's bday
