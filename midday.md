@@ -29,6 +29,7 @@ BRAINSTORM DOMAIN HISTORY:
 2026-09-20: invented superstitions — a modern, hyper-specific superstition with an oddly specific origin story, paired with the exact everyday moment that triggers it
 2026-09-21: invented alien first-contact protocols — a bizarrely specific etiquette rule for the day humanity finally meets aliens, paired with the ordinary human habit that would completely horrify them
 2026-09-22: invented reality TV show formats — absurd reality show concepts a desperate network would greenlight, paired with the exact twist/moment that gets each one cancelled after one season
+2026-09-23: personified abstract forces/concepts — resignation letters from things like Monday, gravity, autocorrect, willpower finally quitting, each paired with what pushed them over the edge and who they're recommending as their replacement (personification/resignation-letter format, a break from the "invented category + pairing" pattern used most days this month)
 
 NOTES:
 2026-09-03: user asked via Telegram (sent 9/2) to reuse the 9/2 midday brainstorm prompt for 9/3 — done, see domain history above.
