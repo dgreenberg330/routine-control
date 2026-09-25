@@ -1,8 +1,7 @@
-VIRTUE THIS WEEK: Mindfulness — week of Mon Sep 21 – Sun Sep 27 (set via Telegram 9/21, update 108203939). (Last set: Cleanliness, week of 9/14, update 108203937; Resolution, week of 9/7, update 108203934; Love, week of 8/31, update 108203932; Silence, week of 8/24, update 108203930; Active, week of 8/17, update 108203925.)
-CHALLENGE (week of Mon Sep 21 – Sun Sep 27): Ten minutes of stillness daily — once a day, sit for 10 minutes with no input: no phone, no music, no podcast. Just breath and attention. Seven sits by Sunday.
+VIRTUE THIS WEEK: Mindfulness — week of Mon Sep 21 – Sun Sep 27 (set via Telegram 9/21, update 108203939). 
 TRAVEL LOCATION: none — home in Williamsburg.
 EVENTS FORMAT (set via Telegram 8/24, update 108203929): List events as bullets grouped by TODAY (with day) / This week / Next month, each line as "• Day Mon DD — event time". Example:
-  6) EVENTS
+  4) EVENTS
   TODAY (Sat):
   • Rocky training — 10:30 AM
   • Eagles — 7:00 PM
