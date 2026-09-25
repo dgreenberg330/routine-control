@@ -31,6 +31,7 @@ BRAINSTORM DOMAIN HISTORY:
 2026-09-22: invented reality TV show formats — absurd reality show concepts a desperate network would greenlight, paired with the exact twist/moment that gets each one cancelled after one season
 2026-09-23: personified abstract forces/concepts — resignation letters from things like Monday, gravity, autocorrect, willpower finally quitting, each paired with what pushed them over the edge and who they're recommending as their replacement (personification/resignation-letter format, a break from the "invented category + pairing" pattern used most days this month)
 2026-09-24: invented procrastination techniques — fake-legitimate, official-sounding productivity "methods" that are actually just procrastination in disguise, each paired with the exact task it's best deployed against
+2026-09-25: invented tarot cards — a new tarot card representing one hyper-specific modern-day dread/vibe, paired with its upright meaning and unsettling reversed meaning
 
 NOTES:
 2026-09-03: user asked via Telegram (sent 9/2) to reuse the 9/2 midday brainstorm prompt for 9/3 — done, see domain history above.
