@@ -70,7 +70,7 @@ brooklynbowl.com: https://www.brooklynbowl.com/brooklyn/shows/all is server-rend
 bowerypresents.com: listings JSON at https://aegwebprod.blob.core.windows.net/json/resources/8/events/208lbnmkq5/events.json and .../7301mbln09/events.json (paths found in bowerypresents.com homepage HTML); fields: eventDateTime, title.headlinersText, venue.title, announceDateTime, onsaleDateTime, presaleDateTime. Covers NYC + other markets, filter by venue (2026-09-26).
 espn.com: team schedules via JSON API https://site.api.espn.com/apis/site/v2/sports/{sport}/{league}/teams/{abbr}/schedule?seasontype={1 pre|2 reg|3 post} (abbrs: nyg nyj ny bkn nyr nyi nj nyy nym); postseason games show 00:00 when time TBD; occasional TLS handshake timeout, just retry. UFC not covered: web search "UFC New York <year>" (2026-09-26).
 whitney.org: https://whitney.org/exhibitions works with plain fetch (server-rendered; Current/Upcoming sections with "Through"/"Opens" dates) (2026-09-26).
-nycforfree.co: /resources/free-museums lists recurring free days/nights; follow redirects (curl -L) (2026-09-26).
+nycforfree.co: /resources/free-museums lists recurring free days/nights; /events is server-rendered (title, desc, address, start date, end date; "(CANCELLED)" in title); follow redirects (curl -L) (2026-09-26).
 guggenheim.org: https://www.guggenheim.org/exhibitions shell is JS, but exhibition data is embedded as JSON in the HTML (curl --compressed). Objects: "dates":{"end":{"day":"14","month":"March","year":"2027"},"start":{...}} with month as a NAME string; title follows after the dates block ("title":"..." within ~2.5KB, may contain <br>) (2026-09-26).
 newmuseum.org: https://www.newmuseum.org/exhibitions — parse __NEXT_DATA__ JSON (title, startDate, endDate, dateTextOverride) (2026-09-26).
 secretnyc.co: homepage plain fetch works (curl -L --compressed) (2026-09-26).
@@ -97,3 +97,8 @@ roxycinemanewyork.com: homepage https://www.roxycinemanewyork.com/ is server-ren
 spectacletheater.com: homepage plain fetch lists series names only; showtimes are on Screen Slate (2026-09-26).
 paristheaternyc.com: JS app; showtime data needs auth.moviexchange.com + netflixstrapicentralcms.blob.core.windows.net (proxy-denied). Use Screen Slate instead (2026-09-26).
 angelikafilmcenter.com: JS app; showtime data needs production-api.readingcinemas.com (proxy-denied) (2026-09-26).
+timeout.com: weekend article https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend is server-rendered (curl -L --compressed); items = title, category, blurb with dates/prices (2026-09-26).
+donyc.com: homepage is server-rendered with today's events (title, venue, time) (curl -L --compressed) (2026-09-26).
+ny.eater.com: homepage plain fetch gives latest headlines (openings/closings) (2026-09-26).
+theinfatuation.com: https://www.theinfatuation.com/new-york plain fetch gives new reviews + hit lists (2026-09-26).
+smorgasburg.com: https://www.smorgasburg.com/new-york (redirects to smorgasburg.com/new-york) is plain HTML with each market's day, location and closure notes (2026-09-26).
