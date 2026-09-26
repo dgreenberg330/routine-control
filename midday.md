@@ -70,3 +70,6 @@ bowerypresents.com: listings JSON at https://aegwebprod.blob.core.windows.net/js
 espn.com: team schedules via JSON API https://site.api.espn.com/apis/site/v2/sports/{sport}/{league}/teams/{abbr}/schedule?seasontype={1 pre|2 reg|3 post} (abbrs: nyg nyj ny bkn nyr nyi nj nyy nym) (2026-09-26).
 whitney.org: https://whitney.org/exhibitions works with plain fetch (server-rendered) (2026-09-26).
 nycforfree.co: /resources/free-museums lists recurring free days/nights; follow redirects (curl -L) (2026-09-26).
+guggenheim.org: https://www.guggenheim.org/exhibitions shell is JS, but exhibition data is embedded as JSON in the HTML (curl --compressed; parse "title" + "dates":{"start":{day,month,year},"end":{...}}) (2026-09-26).
+newmuseum.org: https://www.newmuseum.org/exhibitions — parse __NEXT_DATA__ JSON (title, startDate, endDate, dateTextOverride) (2026-09-26).
+secretnyc.co: homepage plain fetch works (curl -L --compressed) (2026-09-26).
