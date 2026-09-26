@@ -55,7 +55,20 @@ Rules: Only report a show if a result states its dates. Prefer the museum's own 
 Watchlist: 
 Notes: Focus on noteworthy exhibitions only. List 5 max.  Keep a running EXHIBITIONS list below (museum | show | opens | closes) so each week only needs to search for changes.
 EXHIBITIONS (museum | show | opens | closes) — updated 2026-09-26:
-
+The Met | Krasner and Pollock: Past Continuous | 2026-10-04 | 2027-01-31
+Brooklyn Museum | Cézanne to Modigliani: Gifts of Modern Art from the Pearlman Collection | 2026-10-02 | 2027-04-18
+Brooklyn Museum | Hopi Kachina Dolls: Blessings for a Balanced World | 2026-10-02 | 2027-06-27
+Brooklyn Museum | Art of Manga | 2026-10-03 | (close date unconfirmed)
+Brooklyn Museum | Manga Before Manga: Japanese Art from the Collection | 2026-10-03 | 2027-01-31
+New Museum | Arthur Jafa: I Am Tony (+ Diego Marcon, The Bowery: Devil's Mile, Ho Tzu Nyen) | 2026-09-24 | early 2027 (unconfirmed)
+Whitney | Whitney Biennial 2026 (Floor 6 only) | 2026-03-08 | 2026-10-12
+Whitney | Roy Lichtenstein: Like New | 2026-10-11 | (close date unconfirmed)
+Whitney | Andy Warhol: Family Album | (open date unconfirmed) | 2026-10-19
+The Morgan | Tarot! Renaissance Symbols, Modern Visions | (open date unconfirmed) | 2026-10-04
+The Frick | Siena: The Art of Bronze, 1450–1500 | 2026-10-15 | 2027-01-18
+MoMA | Brancusi: The Artist and His Studio | 2026-10-25 | 2027-02-27
+MoMA PS1 | Teresa Margolles survey | fall 2026 (dates unconfirmed) | ?
+Guggenheim | Guggenheim Pop: 1960 to Now | 2026-06-05 | 2027-01-10
 
 SOURCE NOTES:
 (working endpoints for JS-rendered sites go here, one line per source)
@@ -71,4 +84,8 @@ nycforfree.co: /resources/free-museums lists recurring free days/nights (2026-09
 
 SEEN LOG:
 (date sent | category | item)
-2)
+2026-09-26 | museums | The Met — Krasner and Pollock: Past Continuous (opens Oct 4)
+2026-09-26 | museums | Brooklyn Museum — Art of Manga (opens Oct 3) + First Saturday Oct 3
+2026-09-26 | museums | New Museum — Arthur Jafa: I Am Tony (opened Sep 24)
+2026-09-26 | museums | The Morgan — Tarot! (closes Oct 4)
+2026-09-26 | museums | Whitney — Biennial 2026 Floor 6 (closes Oct 12)
