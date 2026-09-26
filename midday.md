@@ -52,7 +52,7 @@ Notes: Restaurant openings, chef collabs, food/drink pop-ups, markets, festivals
 Fetch (fetch ladder): guggenheim.org, newmuseum.org, whitney.org Search only (bot-blocked — do not fetch): The Met, MoMA, MoMA PS1, Brooklyn Museum, The Frick, The Morgan Queries (per search-only museum, current month + next month): "<museum> exhibitions closing <Month> <Year>", "<museum> exhibition opening <Month> <Year>", "<museum> press release exhibition <Year>" 
 Rules: Only report a show if a source states its dates. Prefer the museum's own pages and press releases, then major outlets. Note "(dates unconfirmed)" rather than guessing. Search results older than 6 months only count for shows whose stated run covers the current date. Look for NYC and Brooklyn exhibitions more broadly as well; don't limit to just the museums listed. Also check: nycforfree.co and secretnyc.co for free days, late nights, and one-off museum events. 
 Watchlist: 
-Notes: Focus on noteworthy exhibitions only. List 5 max. List free museum days after as well.
+Notes: Focus on noteworthy exhibitions only. List 5 max. List free museum days after as well. If the exhibition is ongoing, don't worry about checking against events.md.
 
 [SPORTS] 
 Window: next month. 
