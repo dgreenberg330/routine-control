@@ -73,5 +73,18 @@ moma.org, themorgan.org: return 403 to automated requests (2026-09-26).
 timeout.com: /newyork/attractions/best-museum-exhibitions-in-nyc is stale (last updated Apr 6 2026) (2026-09-26).
 donyc.com: /events/art returns 404; needs a different listing path (2026-09-26).
 nycforfree.co: /resources/free-museums lists recurring free days/nights (2026-09-26).
+barclayscenter.com: https://www.barclayscenter.com/events/category/concerts is server-rendered (curl --compressed); /events/all returns no list (2026-09-26).
+brooklynbowl.com: https://www.brooklynbowl.com/brooklyn/shows/all is server-rendered with full list (curl --compressed) (2026-09-26).
+ohmyrockness.com: /shows is JS-rendered from /api/shows.json?index=true&page=1&per=50&regioned=1, which returns "HTTP Token: Access denied" — no working endpoint (2026-09-26).
+bowerypresents.com, foresthillsstadium.com: listings load from aegwebprod.blob.core.windows.net/json/... (unlisted domain — needs permission) (2026-09-26).
+msg.com: /calendar is JS-rendered (0 events in HTML); no endpoint found yet (2026-09-26).
+livenation.com: homepage has no __NEXT_DATA__ event list; venue pages e.g. /venue/KovZpZA7AAEA/madison-square-garden-events not yet tried (2026-09-26).
+kingstheatre.com: connection failed (2026-09-26). ubsarena.com: 202 bot challenge (2026-09-26).
 
-
+SEEN LOG:
+(date sent | category | item)
+2026-09-26 | music | Stevie Wonder — Songs in the Key of Life 50th (Nov 19, MSG)
+2026-09-26 | music | Weezer w/ The Shins & Silversun Pickups (Sep 30, Barclays)
+2026-09-26 | music | The Smashing Pumpkins — Mellon Collie at 30 (Oct 4, Barclays)
+2026-09-26 | music | GZA performing Liquid Swords (Oct 15, Brooklyn Bowl)
+2026-09-26 | music | Brand New — Devil and God in concert (Oct 12, Barclays)
