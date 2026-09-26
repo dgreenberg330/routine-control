@@ -59,7 +59,7 @@ Notes: Focus on noteworthy exhibitions only. List 5 max. List free museum days a
 Window: next month. 
 Sources: espn.com 
 Teams/events: 
-Sports: NFL, MLB, NBA, NHL, UFC. 
+Sports: NFL, MLB, NBA, NHL, UFC.
 Notes: Favor quality matchups in the area and make a note whenever Philadelphia or Boston teams come to town. Also callout and highlight any unique sporting events going on.
 
 SOURCE NOTES:
@@ -71,7 +71,7 @@ bowerypresents.com: listings JSON at https://aegwebprod.blob.core.windows.net/js
 espn.com: team schedules via JSON API https://site.api.espn.com/apis/site/v2/sports/{sport}/{league}/teams/{abbr}/schedule?seasontype={1 pre|2 reg|3 post} (abbrs: nyg nyj ny bkn nyr nyi nj nyy nym); postseason games show 00:00 when time TBD; occasional TLS handshake timeout, just retry. UFC not covered: web search "UFC New York <year>" (2026-09-26).
 whitney.org: https://whitney.org/exhibitions works with plain fetch (server-rendered; Current/Upcoming sections with "Through"/"Opens" dates) (2026-09-26).
 nycforfree.co: /resources/free-museums lists recurring free days/nights; follow redirects (curl -L) (2026-09-26).
-guggenheim.org: https://www.guggenheim.org/exhibitions shell is JS, but exhibition data is embedded as JSON in the HTML (curl --compressed; objects are {"dates":{"end":{day,month,year},"start":{...}}, ..., "title"} — dates come BEFORE title) (2026-09-26).
+guggenheim.org: https://www.guggenheim.org/exhibitions shell is JS, but exhibition data is embedded as JSON in the HTML (curl --compressed). Objects: "dates":{"end":{"day":"14","month":"March","year":"2027"},"start":{...}} with month as a NAME string; title follows after the dates block ("title":"..." within ~2.5KB, may contain <br>) (2026-09-26).
 newmuseum.org: https://www.newmuseum.org/exhibitions — parse __NEXT_DATA__ JSON (title, startDate, endDate, dateTextOverride) (2026-09-26).
 secretnyc.co: homepage plain fetch works (curl -L --compressed) (2026-09-26).
 msg.com: plain fetch has no listings and direct api.msg.com call is 401. Render https://www.msg.com/calendar in Playwright (proxy), press Escape to close opt-in modal, click "Load more" (force) ~5x, capture api.msg.com/v3.0/events?page=N responses (results[].name, category[].value=='music', show_times[0].date_time ms, msg_edp_url has venue slug; skip chicago-theatre). Tracker/font domains are proxy-denied, harmless (2026-09-26).
