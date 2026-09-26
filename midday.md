@@ -9,8 +9,8 @@ Sun: sports
 
 GLOBAL PREFERENCES:
 Home base: Williamsburg. Brooklyn and Manhattan are in range. Flag anything in Queens, the Bronx, Staten Island, or NJ.
-Max 8–10 picks per message, best first. Each pick: who/what (all caps) - date — time — venue — price — link. Include whitespace between each pick.
-★ = watchlist hit. Flag conflicts with events.md.
+Max 8–10 picks per message, best first. Number each pick and list: who/what (all caps) - date — time — venue — price — link. Include whitespace between each pick.
+★ = watchlist hit. Flag conflicts with events.md (only if it's on that specific day. If an event runs multiple days, ignore conflict.)
 Never invent lineups, dates, or prices.
 
 SOURCE RULES:
@@ -51,34 +51,11 @@ Notes: Restaurant openings, chef collabs, food/drink pop-ups, markets, festivals
 [MUSEUMS & EXHIBITIONS] Window: openings in the next 2 weeks, closings in the next 3 weeks, free/late nights this week. 
 Method: WEB SEARCH, not page fetching. Search engines have already indexed the museum sites, including the bot-blocked and JavaScript ones, so titles and dates show up in results. Do not fetch any museum site directly. 
 Museums: The Met, MoMA, MoMA PS1, Guggenheim, Whitney, Brooklyn Museum, New Museum, The Frick, The Morgan Queries (per museum, current month + next month): "<museum> exhibitions closing <Month> <Year>", "<museum> exhibition opening <Month> <Year>", "<museum> press release exhibition <Year>" 
-Rules: Only report a show if a result states its dates. Prefer the museum's own pages and press releases, then major outlets. Note "(dates unconfirmed)" rather than guessing. Search results older than 6 months only count for shows whose stated run covers the current date. Also check: nycforfree.co and secretnyc.co for free days, late nights, and one-off museum events. 
+Rules: Only report a show if a result states its dates. Prefer the museum's own pages and press releases, then major outlets. Note "(dates unconfirmed)" rather than guessing. Search results older than 6 months only count for shows whose stated run covers the current date. Look for NYC and Brooklyn exhibitions more broadly as well don't limit to just the museums listed. Also check: nycforfree.co and secretnyc.co for free days, late nights, and one-off museum events. 
 Watchlist: 
-Notes: Lead with "last chance" closings. Keep a running EXHIBITIONS list below (museum | show | opens | closes) so each week only needs to search for changes.
+Notes: Focus on noteworthy exhibitions only. List 5 max.  Keep a running EXHIBITIONS list below (museum | show | opens | closes) so each week only needs to search for changes.
 EXHIBITIONS (museum | show | opens | closes) — updated 2026-09-26:
-Met | Musical Bodies | Jun 7 2026 | Sep 27 2026
-Met | Krasner and Pollock: Past Continuous | Oct 4 2026 | Jan 31 2027
-Met | Household Gods (rotation) | — | rotation ends Oct 11; next rotation Oct 17
-MoMA | Odili Donald Odita: Songs from Life | — | Oct 4 2026
-MoMA + MoMA PS1 | Teresa Margolles: En el lugar de los hechos (At the Scene) | fall 2026 (open date unconfirmed) | Feb 2027
-MoMA PS1 | Greater New York 2026 | Apr 16 2026 | Aug 17 2026 (extended partial view exists; dates unconfirmed)
-Guggenheim | Guggenheim Pop | Jun 5 2026 | Jan 10 2027
-Guggenheim | Taryn Simon | Sep 18 2026 | Mar 14 2027
-Whitney | Whitney Biennial 2026 (Floor 6 portion) | — | Oct 12 2026
-Whitney | Roy Lichtenstein: Like New | Oct 11 2026 (member previews Oct 8–10) | May 10 2027
-Whitney | Maya Man: A Realistic Day In My Life Living In New York City | Oct 29 2024 | Oct 28 2026
-Brooklyn Museum | Iris van Herpen: Sculpting the Senses | — | Dec 6 2026
-Brooklyn Museum | Cézanne to Modigliani: Pearlman Collection | Oct 2 2026 | Apr 18 2027
-Brooklyn Museum | Hopi Kachina Dolls: Blessings for a Balanced World | Oct 2 2026 | Jun 27 2027
-Brooklyn Museum | Art of Manga | Oct 3 2026 | Jan 31 2027
-Brooklyn Museum | Manga Before Manga | Oct 3 2026 | Jan 31 2027
-New Museum | Arthur Jafa: I Am Tony (+ Diego Marcon, The Bowery: Devil's Mile, Ho Tzu Nyen) | Sep 24 2026 | (close dates unconfirmed)
-Frick | Siena: The Art of Bronze, 1450–1500 | Oct 15 2026 | Jan 18 2027
-Morgan | Luminous Color | Feb 10 2026 | Nov 8 2026 (one result said Oct 11 — dates unconfirmed)
-Morgan | Hujar: Contact | — | Oct 25 2026
-Morgan | J. Pierpont Morgan's Library | — | Oct 25 2026
-Morgan | Fantasy and Reality: Johan Tobias Sergel | Oct 23 2026 | Jan 31 2027
-Morgan | Graphic Devotions: Late Medieval European Blockbooks | Oct 30 2026 | Jan 31 2027
-Morgan | Ragtime: Cakewalk in Pianoland | Nov 6 2026 | May 16 2027
+
 
 SOURCE NOTES:
 (working endpoints for JS-rendered sites go here, one line per source)
@@ -94,12 +71,4 @@ nycforfree.co: /resources/free-museums lists recurring free days/nights (2026-09
 
 SEEN LOG:
 (date sent | category | item)
-2026-09-26 | museums | Met — Musical Bodies (closes Sep 27)
-2026-09-26 | museums | MoMA — Odili Donald Odita: Songs from Life (closes Oct 4)
-2026-09-26 | museums | Whitney — Biennial 2026 Floor 6 (closes Oct 12)
-2026-09-26 | museums | Met — Krasner and Pollock: Past Continuous (opens Oct 4)
-2026-09-26 | museums | Whitney — Roy Lichtenstein: Like New (opens Oct 11)
-2026-09-26 | museums | Brooklyn Museum — Art of Manga + Manga Before Manga (opens Oct 3)
-2026-09-26 | museums | Brooklyn Museum — Cézanne to Modigliani (opens Oct 2)
-2026-09-26 | museums | New Museum — Arthur Jafa: I Am Tony (opened Sep 24)
-2026-09-26 | museums | Free nights — Whitney Free Friday / MoMA First Friday (Oct 2)
+2)
