@@ -17,12 +17,13 @@ SOURCE RULES:
 Aggregators are listed first per category; use them before venue sites.
 If a listed domain is blocked or a page needs a domain not listed, do not work around it. Add a "Needs permission: <domain> (for <what>)" line at the bottom of the message.
 
-[MUSIC]
-Window: next 8 weeks. Lead with newly announced shows and presales/on-sales this week, then big shows already on sale.
+[MUSIC] 
+Window: next 8 weeks. Lead with newly announced shows and presales/on-sales this week, then big shows already on sale. 
 Focus: Notable performers and artists I listen to.
-Sources: livenation.com (NYC-area venues incl. Brooklyn Paramount, Irving Plaza, Hammerstein, stadium tours), msg.com (Madison Square Garden, Radio City, Beacon Theatre, Hulu Theater), barclayscenter.com, bowerypresents.com (Terminal 5, Brooklyn Steel, Webster Hall), kingstheatre.com, ubsarena.com, foresthillsstadium.com, ohmyrockness.com (NYC show aggregator), dice.fm (Elsewhere, Knockdown Center, smaller rooms), brooklynbowl.com
-Watchlist (artists/genres):
-Notes: Stadium/arena shows in Queens or NJ (UBS Arena, Forest Hills, MetLife) are worth including despite the borough rule; just flag the location.
+Fetch: bowerypresents.com + aegwebprod.blob.core.windows.net (the listings data for Terminal 5, Brooklyn Steel, Webster Hall, Bowery Ballroom, Forest Hills Stadium), barclayscenter.com, brooklynbowl.com, dice.fm (Elsewhere, Knockdown Center, smaller rooms — screen for big names only) 
+Search (JS-rendered or bot-blocked, so find shows via web search, not fetching): Madison Square Garden, Radio City, Beacon Theatre, Brooklyn Paramount, Irving Plaza, Kings Theatre, UBS Arena, MetLife Stadium, Citi Field concerts 
+Watchlist (artists/genres): 
+Notes: Stadium/arena shows in Queens or NJ are worth including despite the borough rule; just flag the location.
 
 [TALKS & LECTURES]
 Window: next 6 weeks. Big names sell out early — flag anything with limited tickets.
