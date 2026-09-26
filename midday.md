@@ -8,7 +8,7 @@ Sat: museums & exhibitions
 Sun: sports
 
 GLOBAL PREFERENCES: Home base: Williamsburg. Brooklyn and Manhattan are in range. Queens, the Bronx, Staten Island, or NJ are fine if big enough event.
-Max 5 picks per message, best first. Number each pick and list: who/what (all caps) - date — venue. Include whitespace between each pick. 
+Max 5 picks per message, best first. Number each pick and list: who/what (all caps) - date — venue. Include whitespace between each pick. If you include also after the top 5, put in bullet format.
 ★ = watchlist hit. 
 Never invent lineups, dates, or prices.
 
