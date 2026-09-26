@@ -68,8 +68,8 @@ barclayscenter.com: https://www.barclayscenter.com/events/category/concerts is s
 brooklynbowl.com: https://www.brooklynbowl.com/brooklyn/shows/all is server-rendered with full list (curl --compressed) (2026-09-26).
 bowerypresents.com: listings JSON at https://aegwebprod.blob.core.windows.net/json/resources/8/events/208lbnmkq5/events.json and .../7301mbln09/events.json (paths found in bowerypresents.com homepage HTML); fields: eventDateTime, title.headlinersText, venue.title, announceDateTime, onsaleDateTime, presaleDateTime. Covers NYC + other markets, filter by venue (2026-09-26).
 espn.com: team schedules via JSON API https://site.api.espn.com/apis/site/v2/sports/{sport}/{league}/teams/{abbr}/schedule?seasontype={1 pre|2 reg|3 post} (abbrs: nyg nyj ny bkn nyr nyi nj nyy nym) (2026-09-26).
-whitney.org: https://whitney.org/exhibitions works with plain fetch (server-rendered) (2026-09-26).
+whitney.org: https://whitney.org/exhibitions works with plain fetch (server-rendered; Current/Upcoming sections with "Through"/"Opens" dates) (2026-09-26).
 nycforfree.co: /resources/free-museums lists recurring free days/nights; follow redirects (curl -L) (2026-09-26).
-guggenheim.org: https://www.guggenheim.org/exhibitions shell is JS, but exhibition data is embedded as JSON in the HTML (curl --compressed; parse "title" + "dates":{"start":{day,month,year},"end":{...}}) (2026-09-26).
+guggenheim.org: https://www.guggenheim.org/exhibitions shell is JS, but exhibition data is embedded as JSON in the HTML (curl --compressed; objects are {"dates":{"end":{day,month,year},"start":{...}}, ..., "title"} — dates come BEFORE title) (2026-09-26).
 newmuseum.org: https://www.newmuseum.org/exhibitions — parse __NEXT_DATA__ JSON (title, startDate, endDate, dateTextOverride) (2026-09-26).
 secretnyc.co: homepage plain fetch works (curl -L --compressed) (2026-09-26).
