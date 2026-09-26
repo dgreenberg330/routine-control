@@ -48,11 +48,10 @@ Sources: Time Out's "The best things to do in NYC this weekend" (https://www.tim
 Watchlist:
 Notes: Restaurant openings, chef collabs, food/drink pop-ups, markets, festivals, free events, one-off happenings. Always check the Time Out weekend article first.
 
-[MUSEUMS & EXHIBITIONS]
-Window: openings in the next 2 weeks, closings in the next 3 weeks, free/late nights this week.
-Sources: metmuseum.org, moma.org, whitney.org, guggenheim.org, brooklynmuseum.org, newmuseum.org, frick.org, themorgan.org
-Watchlist:
-Notes: Lead with "last chance" closings.
+[MUSEUMS & EXHIBITIONS] 
+Window: openings in the next 2 weeks, closings in the next 3 weeks, free/late nights this week. 
+Sources (aggregators first — these cover the Met, MoMA, Brooklyn Museum, and the Morgan, whose sites block automated access): timeout.com (museum/art exhibition roundups under timeout.com/newyork), hyperallergic.com (monthly New York art guide), donyc.com (museum/art listings), nycforfree.co (free museum days), secretnyc.co Direct sites: whitney.org, frick.org, guggenheim.org and newmuseum.org (JS-rendered — use the data endpoint in SOURCE NOTES; if none works, rely on the aggregators) Watchlist: 
+Notes: Lead with "last chance" closings. Do not fetch metmuseum.org, moma.org, brooklynmuseum.org, or themorgan.org directly. They block bots, so don't retry or work around them.
 
 SOURCE NOTES:
 (working endpoints for JS-rendered sites go here, one line per source)
@@ -63,9 +62,4 @@ guggenheim.org: /exhibition is JS-rendered WordPress shell; no data endpoint fou
 metmuseum.org, brooklynmuseum.org: return 429 to automated requests (2026-09-26).
 moma.org, themorgan.org: return 403 to automated requests (2026-09-26).
 
-SEEN LOG:
-(date sent | category | event | event date — prune after 60 days)
-2026-09-26 | museums | Whitney Biennial 2026 (closing) | through Oct 12, 2026
-2026-09-26 | museums | Andy Warhol Family Album, Whitney (closing) | through Oct 19, 2026
-2026-09-26 | museums | Roy Lichtenstein: Like New, Whitney (opening) | Oct 11, 2026
-2026-09-26 | museums | Siena: The Art of Bronze 1450–1500, Frick (opening) | Oct 15, 2026
+
