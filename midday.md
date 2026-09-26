@@ -1,37 +1,68 @@
-BRAINSTORM DOMAIN HISTORY:
-2026-08-24: invented sports/games — mashing up two unrelated activities into one new absurd sport (reused per user's Mon/Tue weekend-prompt-reuse request)
-2026-08-25: invented holidays/rituals — office/corporate holidays no HR department would approve (reused from Sun 8/23 per user's weekend-prompt-reuse request)
-2026-08-26: invented units of measurement — devising new measurement units for intangible things (regret, awkward silence, etc.)
-2026-08-27: invented superpowers — a wildly impractical superpower paired with the mundane downside it causes
-2026-08-28: invented conspiracy theories — outlandish, overconfident-sounding conspiracy theories explaining totally mundane everyday phenomena
-2026-08-29: invented emoji/texting symbols — new icons for real feelings or social moments that have no symbol yet
-2026-08-30: invented body language/silent signals — new hand signals or micro-expressions for social moments that have no current signal
-2026-08-31: business/startup ideas — pitching services built around monetizing failure/failing faster, framing failure itself as the paid product
-2026-09-01: solutions to a problem — wild fixes for eliminating awkward small-talk silences (elevators, waiting rooms, etc.)
-2026-09-02: invented professions/jobs — hyper-specific niche jobs that don't exist yet but obviously should, title + one-line duties each
-2026-09-03: invented professions/jobs — hyper-specific niche jobs that don't exist yet but obviously should, title + one-line duties each (reused from 9/2 per user's Telegram request)
-2026-09-04: invented world records — absurd, pointless-but-impressive new Guinness-style record categories, plus the ideal person to hold each one
-2026-09-05: invented currencies — absurd non-monetary things people would legitimately accept as payment, each named with what it's worth trading for
-2026-09-06: invented secret societies — absurd secret societies built around one hyper-specific shared trait or coincidence, plus each one's secret handshake/initiation ritual
-2026-09-07: invented human senses — a brand-new sense beyond the classic five, paired with the one mundane daily moment it would ruin or transform
-2026-09-08: invented urban cryptids — a new mythical creature that haunts a hyper-specific mundane modern location, paired with the oddly specific thing it does to whoever encounters it
-2026-09-09: invented food mashups — a fusion dish engineered for one absurdly specific craving or mood, paired with the exact real-life moment it would save
-2026-09-10: invented candle scents — a candle scent engineered to capture one hyper-specific, weirdly emotional life moment, named + described
-2026-09-11: invented musical genres — a new music genre engineered for one absurdly specific mood/life moment, paired with the song title that would headline its debut album
-2026-09-12: alternate history ripples — a tiny, weird change to a random moment in history, paired with the one strange way it would still be rippling into an ordinary day in 2026
-2026-09-13: fake product recall notices — deadpan-serious official recall notices inventing a bizarre, oddly specific defect just discovered in a totally ordinary household object (narrative/document format, a break from the "invented category + pairing" pattern used most days this month)
-2026-09-14: invented zodiac signs — a new 13th zodiac sign built around one absurdly specific modern personality quirk, paired with the sign it's romantically incompatible with
-2026-09-15: personified everyday objects — deadpan formal HR complaints filed by 10+ ordinary household/office objects against humans, each naming one absurd specific grievance (personification/complaint-letter format, a break from the "invented category + pairing" pattern used most days this month)
-2026-09-16: invented roadside attractions — tourist-trap attractions for towns that don't exist, each paired with the oddly specific tagline on its entrance sign
-2026-09-17: invented museum exhibits — absurdly niche museum wings dedicated to something utterly mundane, paired with the pretentious placard description explaining why it deserves reverence
-2026-09-18: invented apocalypse triggers — an absurdly mundane everyday object or habit that finally breaks civilization, paired with the oddly specific tactic that lets humanity limp on afterward
-2026-09-19: fake WikiHow-style "how-to" guides — absurdly hyper-specific "How to ___" guides for scenarios nobody has ever needed instructions for, each paired with one deliciously specific numbered step that reveals it's unhinged (instructional/list format, a break from the "invented category + pairing" pattern used most days this month)
-2026-09-20: invented superstitions — a modern, hyper-specific superstition with an oddly specific origin story, paired with the exact everyday moment that triggers it
-2026-09-21: invented alien first-contact protocols — a bizarrely specific etiquette rule for the day humanity finally meets aliens, paired with the ordinary human habit that would completely horrify them
-2026-09-22: invented reality TV show formats — absurd reality show concepts a desperate network would greenlight, paired with the exact twist/moment that gets each one cancelled after one season
-2026-09-23: personified abstract forces/concepts — resignation letters from things like Monday, gravity, autocorrect, willpower finally quitting, each paired with what pushed them over the edge and who they're recommending as their replacement (personification/resignation-letter format, a break from the "invented category + pairing" pattern used most days this month)
-2026-09-24: invented procrastination techniques — fake-legitimate, official-sounding productivity "methods" that are actually just procrastination in disguise, each paired with the exact task it's best deployed against
-2026-09-25: invented tarot cards — a new tarot card representing one hyper-specific modern-day dread/vibe, paired with its upright meaning and unsettling reversed meaning
+ROTATION:
+Mon: music
+Tue: talks & lectures
+Wed: comedy
+Thu: movies
+Fri: pop-ups & events
+Sat: museums & exhibitions
+Sun: sports
 
-NOTES:
-2026-09-03: user asked via Telegram (sent 9/2) to reuse the 9/2 midday brainstorm prompt for 9/3 — done, see domain history above.
+GLOBAL PREFERENCES:
+Home base: Williamsburg. Brooklyn and Manhattan are in range. Flag anything in Queens, the Bronx, Staten Island, or NJ.
+Max 8–10 picks per message, best first. Each pick: date — time — venue — who/what — price — link.
+★ = watchlist hit. Flag conflicts with events.md.
+Never invent lineups, dates, or prices.
+
+SOURCE RULES:
+Aggregators are listed first per category; use them before venue sites.
+If a listed domain is blocked or a page needs a domain not listed, do not work around it. Add a "Needs permission: <domain> (for <what>)" line at the bottom of the message.
+
+[MUSIC]
+Window: next 8 weeks. Lead with newly announced shows and presales/on-sales this week, then big shows already on sale.
+Focus: Notable performers and artists I listen to.
+Sources: livenation.com (NYC-area venues incl. Brooklyn Paramount, Irving Plaza, Hammerstein, stadium tours), msg.com (Madison Square Garden, Radio City, Beacon Theatre, Hulu Theater), barclayscenter.com, bowerypresents.com (Terminal 5, Brooklyn Steel, Webster Hall), kingstheatre.com, ubsarena.com, foresthillsstadium.com, ohmyrockness.com (NYC show aggregator), dice.fm (Elsewhere, Knockdown Center, smaller rooms), brooklynbowl.com
+Watchlist (artists/genres):
+Notes: Stadium/arena shows in Queens or NJ (UBS Arena, Forest Hills, MetLife) are worth including despite the borough rule; just flag the location.
+
+[TALKS & LECTURES]
+Window: next 6 weeks. Big names sell out early — flag anything with limited tickets.
+Sources: 92ny.org, nypl.org, strandbooks.com, bklynlibrary.org, mcnallyjackson.com
+Watchlist (speakers/authors/topics):
+Notes:
+
+[COMEDY]
+Window: today through Sunday (Cellar lineups post late Tuesday).
+Sources: standup.nyc (aggregator), comedycellar.com (MacDougal St, Village Underground, Fat Black Pussycat), thestandnyc.com, newyorkcomedyclub.com, thebellhouseny.com
+Watchlist (comics):
+Notes: Favor stacked lineups, big names, drop-in-prone slots, and one-off specials over routine showcases.
+
+[MOVIES]
+Window: wide releases opening this weekend + repertory/special screenings in the next 2 weeks.
+Sources: rottentomatoes.com (wide releases opening this week, with scores), metrograph.com, filmforum.org, ifccenter.com, filmlinc.org, nitehawkcinema.com
+Watchlist (directors/actors/films):
+Notes: Lead with the notable wide releases (include Rotten Tomatoes score if available), then Q&As, premieres, and 35mm/70mm screenings.
+
+[POP-UPS & EVENTS]
+Window: this weekend + next 2 weeks. Prioritize anything needing a reservation or ticket.
+Sources: Time Out's "The best things to do in NYC this weekend" (https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend; if that URL moves, find the current version from timeout.com/newyork/things-to-do), donyc.com, nycforfree.co, secretnyc.co, ny.eater.com, theinfatuation.com, smorgasburg.com
+Watchlist:
+Notes: Restaurant openings, chef collabs, food/drink pop-ups, markets, festivals, free events, one-off happenings. Always check the Time Out weekend article first.
+
+[MUSEUMS & EXHIBITIONS]
+Window: openings in the next 2 weeks, closings in the next 3 weeks, free/late nights this week.
+Sources: metmuseum.org, moma.org, whitney.org, guggenheim.org, brooklynmuseum.org, newmuseum.org, frick.org, themorgan.org
+Watchlist:
+Notes: Lead with "last chance" closings.
+
+[SPORTS]
+Window: next month.
+Sources: espn.com
+Teams/events:
+Sports: NFL, MLB, NBA, NHL, UFC. 
+Notes: Favor quality matchups in the area and make a note whenever Philadelphia or Boston teams come to town. Also callout and highlight any unique sporting events going on.
+
+SOURCE NOTES:
+(working endpoints for JS-rendered sites go here, one line per source)
+
+SEEN LOG:
+(date sent | category | event | event date — prune after 60 days)
