@@ -65,27 +65,9 @@ Notes: Favor quality matchups in the area and make a note whenever Philadelphia 
 
 SOURCE NOTES:
 (working endpoints for JS-rendered sites go here, one line per source)
-whitney.org: https://whitney.org/exhibitions works directly (server-rendered).
-frick.org: https://www.frick.org/exhibitions works with plain GET (server-rendered; WebFetch gets 418, curl with browser UA gets 200).
-newmuseum.org: headless WordPress (Next.js/Faust); /exhibitions/ __NEXT_DATA__ has no exhibition list and /graphql/ is not publicly queryable — no working endpoint yet (2026-09-26).
-guggenheim.org: /exhibition is JS-rendered WordPress shell; no data endpoint found yet (2026-09-26).
-metmuseum.org, brooklynmuseum.org: return 429 to automated requests (2026-09-26).
-moma.org, themorgan.org: return 403 to automated requests (2026-09-26).
-timeout.com: /newyork/attractions/best-museum-exhibitions-in-nyc is stale (last updated Apr 6 2026) (2026-09-26).
-donyc.com: /events/art returns 404; needs a different listing path (2026-09-26).
 nycforfree.co: /resources/free-museums lists recurring free days/nights; 301-redirects, so use curl -L with browser UA (2026-09-26).
 barclayscenter.com: https://www.barclayscenter.com/events/category/concerts is server-rendered (curl --compressed); /events/all returns no list (2026-09-26).
 brooklynbowl.com: https://www.brooklynbowl.com/brooklyn/shows/all is server-rendered with full list (curl --compressed) (2026-09-26).
-ohmyrockness.com: /shows is JS-rendered from /api/shows.json?index=true&page=1&per=50&regioned=1, which returns "HTTP Token: Access denied" — no working endpoint (2026-09-26).
-bowerypresents.com, foresthillsstadium.com: listings load from aegwebprod.blob.core.windows.net/json/... (unlisted domain — needs permission) (2026-09-26).
-msg.com: /calendar is JS-rendered (0 events in HTML); no endpoint found yet (2026-09-26).
-livenation.com: homepage has no __NEXT_DATA__ event list; venue pages e.g. /venue/KovZpZA7AAEA/madison-square-garden-events not yet tried (2026-09-26).
-kingstheatre.com: connection failed (2026-09-26). ubsarena.com: 202 bot challenge (2026-09-26).
+bowerypresents.com: listings (incl. Forest Hills Stadium) load from aegwebprod.blob.core.windows.net/json/... (2026-09-26).
 espn.com: team schedules via JSON API https://site.api.espn.com/apis/site/v2/sports/{sport}/{league}/teams/{abbr}/schedule?seasontype={1 pre|2 reg|3 post} (abbrs: nyg nyj ny bkn nyr nyi nj nyy nym) (2026-09-26).
 
-SEEN LOG:
-2026-09-26 | sports | Red Sox @ Yankees AL Wild Card — Yankee Stadium (Sep 29–Oct 1)
-2026-09-26 | sports | 76ers @ Knicks — MSG (Oct 20)
-2026-09-26 | sports | Flyers @ Devils — Prudential Center (Oct 1)
-2026-09-26 | sports | Islanders @ Rangers — MSG (Oct 6)
-2026-09-26 | sports | Lightning @ Rangers — MSG (Oct 1)
