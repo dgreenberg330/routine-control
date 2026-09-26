@@ -63,7 +63,7 @@ Notes: Favor quality matchups in the area and make a note whenever Philadelphia 
 
 SOURCE NOTES:
 (best working method per source, one line each, dated. A single failure is not a write-off: note it and retry next run. Only mark a source search-only for a deliberate block such as 403/429/bot challenge.)
-Search only, do not fetch (deliberate bot blocks): metmuseum.org, brooklynmuseum.org (429); moma.org, themorgan.org (403); frick.org (418 bot check); ubsarena.com (bot challenge); 92ny.org, nypl.org (Incapsula bot check); strandbooks.com, bklynlibrary.org (Cloudflare challenge); mcnallyjackson.com (403) (2026-09-26).
+Search only, do not fetch (deliberate bot blocks): metmuseum.org, brooklynmuseum.org (429); moma.org, themorgan.org (403); frick.org (418 bot check); ubsarena.com (bot challenge); 92ny.org, nypl.org (Incapsula bot check); strandbooks.com, bklynlibrary.org, filmlinc.org (Cloudflare challenge); mcnallyjackson.com (403) (2026-09-26).
 barclayscenter.com: https://www.barclayscenter.com/events/category/concerts is server-rendered (curl --compressed) (2026-09-26).
 brooklynbowl.com: https://www.brooklynbowl.com/brooklyn/shows/all is server-rendered with full list (curl --compressed) (2026-09-26).
 bowerypresents.com: listings JSON at https://aegwebprod.blob.core.windows.net/json/resources/8/events/208lbnmkq5/events.json and .../7301mbln09/events.json (paths found in bowerypresents.com homepage HTML); fields: eventDateTime, title.headlinersText, venue.title, announceDateTime, onsaleDateTime, presaleDateTime. Covers NYC + other markets, filter by venue (2026-09-26).
@@ -81,3 +81,8 @@ thestandnyc.com: https://thestandnyc.com/shows is server-rendered (curl -L --com
 newyorkcomedyclub.com: https://newyorkcomedyclub.com/calendar is server-rendered for ~1 month (lines "Saturday September 26th 07:00PM", location, lineup) (2026-09-26).
 thebellhouseny.com: https://www.thebellhouseny.com/shows has ld+json events (name, startDate) in plain HTML (curl --compressed) (2026-09-26).
 standup.nyc: failed on two runs 2026-09-26 (Heroku 503 "Application Error", then timeout). This is a site outage, not a block, so retry next run (2026-09-26).
+rottentomatoes.com: https://www.rottentomatoes.com/browse/movies_in_theaters/sort:newest is server-rendered (curl -L --compressed); split on data-qa="discovery-media-list-item", read list-item-title, list-item-start-date ("Opened/Re-released <date>"), first NN% = Tomatometer. Page doesn't mark wide vs limited; confirm wide releases via web search (e.g. Deadline weekend box office) (2026-09-26).
+metrograph.com: https://metrograph.com/calendar/ (redirects to /nyc/) is server-rendered with ~5 weeks of listings; entries are title, "director / year / runtime / format", optional Q&A/intro note, then showtime AFTER the entry (2026-09-26).
+filmforum.org: https://filmforum.org/events lists Q&As/intros with date+time (plain curl); /now_playing has the weekly grid (2026-09-26).
+ifccenter.com: homepage https://www.ifccenter.com/ is server-rendered with "Special Events" (date, film, Q&A note), series and weekly showtimes (plain curl) (2026-09-26).
+nitehawkcinema.com: https://nitehawkcinema.com/williamsburg/ is server-rendered with today's showtimes + series tiles (plain curl); /prospectpark/ for Prospect Park (2026-09-26).
