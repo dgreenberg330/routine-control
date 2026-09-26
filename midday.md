@@ -68,6 +68,5 @@ SOURCE NOTES:
 nycforfree.co: /resources/free-museums lists recurring free days/nights; 301-redirects, so use curl -L with browser UA (2026-09-26).
 barclayscenter.com: https://www.barclayscenter.com/events/category/concerts is server-rendered (curl --compressed); /events/all returns no list (2026-09-26).
 brooklynbowl.com: https://www.brooklynbowl.com/brooklyn/shows/all is server-rendered with full list (curl --compressed) (2026-09-26).
-bowerypresents.com: listings (incl. Forest Hills Stadium) load from aegwebprod.blob.core.windows.net/json/... (2026-09-26).
+bowerypresents.com: listings JSON at https://aegwebprod.blob.core.windows.net/json/resources/8/events/208lbnmkq5/events.json and .../7301mbln09/events.json (paths found in bowerypresents.com homepage HTML); fields: eventDateTime, title.headlinersText, venue.title, announceDateTime, onsaleDateTime, presaleDateTime. Covers NYC + other markets, filter by venue (2026-09-26).
 espn.com: team schedules via JSON API https://site.api.espn.com/apis/site/v2/sports/{sport}/{league}/teams/{abbr}/schedule?seasontype={1 pre|2 reg|3 post} (abbrs: nyg nyj ny bkn nyr nyi nj nyy nym) (2026-09-26).
-
