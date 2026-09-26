@@ -53,7 +53,7 @@ Method: WEB SEARCH, not page fetching. Search engines have already indexed the m
 Museums: The Met, MoMA, MoMA PS1, Guggenheim, Whitney, Brooklyn Museum, New Museum, The Frick, The Morgan Queries (per museum, current month + next month): "<museum> exhibitions closing <Month> <Year>", "<museum> exhibition opening <Month> <Year>", "<museum> press release exhibition <Year>" 
 Rules: Only report a show if a result states its dates. Prefer the museum's own pages and press releases, then major outlets. Note "(dates unconfirmed)" rather than guessing. Search results older than 6 months only count for shows whose stated run covers the current date. Look for NYC and Brooklyn exhibitions more broadly as well don't limit to just the museums listed. Also check: nycforfree.co and secretnyc.co for free days, late nights, and one-off museum events. 
 Watchlist: 
-Notes: Focus on noteworthy exhibitions only. List 5 max.  Keep a running EXHIBITIONS list below (museum | show | opens | closes) so each week only needs to search for changes.
+Notes: Focus on noteworthy exhibitions only. List 5 max.  List free museum days after as well. Keep a running EXHIBITIONS list below (museum | show | opens | closes) so each week only needs to search for changes.
 EXHIBITIONS (museum | show | opens | closes) — updated 2026-09-26:
 The Met | Krasner and Pollock: Past Continuous | 2026-10-04 | 2027-01-31
 Brooklyn Museum | Cézanne to Modigliani: Gifts of Modern Art from the Pearlman Collection | 2026-10-02 | 2027-04-18
