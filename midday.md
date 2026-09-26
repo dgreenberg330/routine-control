@@ -9,7 +9,7 @@ Sun: sports
 
 GLOBAL PREFERENCES:
 Home base: Williamsburg. Brooklyn and Manhattan are in range. Flag anything in Queens, the Bronx, Staten Island, or NJ.
-Max 8–10 picks per message, best first. Each pick: date — time — venue — who/what — price — link.
+Max 8–10 picks per message, best first. Each pick: who/what (all caps) - date — time — venue — price — link. Include whitespace between each pick.
 ★ = watchlist hit. Flag conflicts with events.md.
 Never invent lineups, dates, or prices.
 
@@ -48,10 +48,12 @@ Sources: Time Out's "The best things to do in NYC this weekend" (https://www.tim
 Watchlist:
 Notes: Restaurant openings, chef collabs, food/drink pop-ups, markets, festivals, free events, one-off happenings. Always check the Time Out weekend article first.
 
-[MUSEUMS & EXHIBITIONS] 
-Window: openings in the next 2 weeks, closings in the next 3 weeks, free/late nights this week. 
-Sources (aggregators first — these cover the Met, MoMA, Brooklyn Museum, and the Morgan, whose sites block automated access): timeout.com (museum/art exhibition roundups under timeout.com/newyork), hyperallergic.com (monthly New York art guide), donyc.com (museum/art listings), nycforfree.co (free museum days), secretnyc.co Direct sites: whitney.org, frick.org, guggenheim.org and newmuseum.org (JS-rendered — use the data endpoint in SOURCE NOTES; if none works, rely on the aggregators) Watchlist: 
-Notes: Lead with "last chance" closings. Do not fetch metmuseum.org, moma.org, brooklynmuseum.org, or themorgan.org directly. They block bots, so don't retry or work around them.
+[MUSEUMS & EXHIBITIONS] Window: openings in the next 2 weeks, closings in the next 3 weeks, free/late nights this week. 
+Method: WEB SEARCH, not page fetching. Search engines have already indexed the museum sites, including the bot-blocked and JavaScript ones, so titles and dates show up in results. Do not fetch any museum site directly. 
+Museums: The Met, MoMA, MoMA PS1, Guggenheim, Whitney, Brooklyn Museum, New Museum, The Frick, The Morgan Queries (per museum, current month + next month): "<museum> exhibitions closing <Month> <Year>", "<museum> exhibition opening <Month> <Year>", "<museum> press release exhibition <Year>" 
+Rules: Only report a show if a result states its dates. Prefer the museum's own pages and press releases, then major outlets. Note "(dates unconfirmed)" rather than guessing. Search results older than 6 months only count for shows whose stated run covers the current date. Also check: nycforfree.co and secretnyc.co for free days, late nights, and one-off museum events. 
+Watchlist: 
+Notes: Lead with "last chance" closings. Keep a running EXHIBITIONS list below (museum | show | opens | closes) so each week only needs to search for changes.
 
 SOURCE NOTES:
 (working endpoints for JS-rendered sites go here, one line per source)
@@ -67,8 +69,3 @@ nycforfree.co: /resources/free-museums lists recurring free days/nights (2026-09
 
 SEEN LOG:
 (date sent | category | item)
-2026-09-26 | museums | Whitney Biennial 2026 partial view closes Oct 12
-2026-09-26 | museums | Frick First Friday free Oct 2
-2026-09-26 | museums | Brooklyn Museum First Saturday Oct 3
-2026-09-26 | museums | Floyd Bennett Field! Public Arts Festival Oct 3
-2026-09-26 | museums | Dexter 20th anniversary pop-up museum Oct 9–11 Chelsea Industrial
