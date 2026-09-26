@@ -80,4 +80,4 @@ comedycellar.com: lineup loads via JS. Render https://www.comedycellar.com/new-y
 thestandnyc.com: https://thestandnyc.com/shows is server-rendered (curl -L --compressed); blocks = title, date, time, room, "The Lineup", price, Sold Out flag (2026-09-26).
 newyorkcomedyclub.com: https://newyorkcomedyclub.com/calendar is server-rendered for ~1 month (lines "Saturday September 26th 07:00PM", location, lineup) (2026-09-26).
 thebellhouseny.com: https://www.thebellhouseny.com/shows has ld+json events (name, startDate) in plain HTML (curl --compressed) (2026-09-26).
-standup.nyc: failed 2026-09-26 (Heroku 503 "Application Error" / timeout), a site outage, not a block; retry next run (2026-09-26).
+standup.nyc: failed on two runs 2026-09-26 (Heroku 503 "Application Error", then timeout). This is a site outage, not a block, so retry next run (2026-09-26).
