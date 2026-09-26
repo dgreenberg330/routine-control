@@ -9,7 +9,7 @@ Sun: sports
 
 GLOBAL PREFERENCES:
 Home base: Williamsburg. Brooklyn and Manhattan are in range. Flag anything in Queens, the Bronx, Staten Island, or NJ.
-Max 8–10 picks per message, best first. Number each pick and list: who/what (all caps) - date — time — venue — price — link. Include whitespace between each pick.
+Max 8–10 picks per message, best first. Number each pick and list: who/what (all caps) - date — time — venue. Include whitespace between each pick.
 ★ = watchlist hit. Flag conflicts with events.md (only if it's on that specific day. If an event runs multiple days, ignore conflict.)
 Never invent lineups, dates, or prices.
 
@@ -69,6 +69,13 @@ The Frick | Siena: The Art of Bronze, 1450–1500 | 2026-10-15 | 2027-01-18
 MoMA | Brancusi: The Artist and His Studio | 2026-10-25 | 2027-02-27
 MoMA PS1 | Teresa Margolles survey | fall 2026 (dates unconfirmed) | ?
 Guggenheim | Guggenheim Pop: 1960 to Now | 2026-06-05 | 2027-01-10
+
+[SPORTS]
+Window: next month.
+Sources: espn.com
+Teams/events:
+Sports: NFL, MLB, NBA, NHL, UFC. 
+Notes: Favor quality matchups in the area and make a note whenever Philadelphia or Boston teams come to town. Also callout and highlight any unique sporting events going on.
 
 SOURCE NOTES:
 (working endpoints for JS-rendered sites go here, one line per source)
