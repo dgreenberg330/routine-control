@@ -61,5 +61,14 @@ newmuseum.org: headless WordPress (Next.js/Faust); /exhibitions/ __NEXT_DATA__ h
 guggenheim.org: /exhibition is JS-rendered WordPress shell; no data endpoint found yet (2026-09-26).
 metmuseum.org, brooklynmuseum.org: return 429 to automated requests (2026-09-26).
 moma.org, themorgan.org: return 403 to automated requests (2026-09-26).
+timeout.com: /newyork/attractions/best-museum-exhibitions-in-nyc is stale (last updated Apr 6 2026) (2026-09-26).
+donyc.com: /events/art returns 404; needs a different listing path (2026-09-26).
+nycforfree.co: /resources/free-museums lists recurring free days/nights (2026-09-26).
 
-
+SEEN LOG:
+(date sent | category | item)
+2026-09-26 | museums | Whitney Biennial 2026 partial view closes Oct 12
+2026-09-26 | museums | Frick First Friday free Oct 2
+2026-09-26 | museums | Brooklyn Museum First Saturday Oct 3
+2026-09-26 | museums | Floyd Bennett Field! Public Arts Festival Oct 3
+2026-09-26 | museums | Dexter 20th anniversary pop-up museum Oct 9–11 Chelsea Industrial
