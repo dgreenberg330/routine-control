@@ -59,12 +59,12 @@ Notes: Focus on noteworthy exhibitions only. List 5 max. List free museum days a
 Window: next month. 
 Sources: espn.com 
 Teams/events: 
-Sports: NFL, MLB, NBA, NHL, UFC.
+Sports: NFL, MLB, NBA, NHL, UFC. 
 Notes: Favor quality matchups in the area and make a note whenever Philadelphia or Boston teams come to town. Also callout and highlight any unique sporting events going on.
 
 SOURCE NOTES:
 (best working method per source, one line each, dated. A single failure is not a write-off: note it and retry next run. Only mark a source search-only for a deliberate block such as 403/429/bot challenge.)
-Search only, do not fetch (deliberate bot blocks): metmuseum.org, brooklynmuseum.org (429); moma.org, themorgan.org (403); frick.org (418 bot check); ubsarena.com (bot challenge); 92ny.org, nypl.org (Incapsula bot check); strandbooks.com, bklynlibrary.org, filmlinc.org (Cloudflare challenge); mcnallyjackson.com (403) (2026-09-26).
+Search only, do not fetch (deliberate bot blocks): metmuseum.org, brooklynmuseum.org (429); moma.org, themorgan.org (403); frick.org (418 bot check); ubsarena.com (bot challenge); 92ny.org, nypl.org (Incapsula bot check); strandbooks.com, bklynlibrary.org, filmlinc.org (Cloudflare challenge); mcnallyjackson.com (403); movingimage.org (Cloudflare "Attention Required" challenge) (2026-09-26).
 barclayscenter.com: https://www.barclayscenter.com/events/category/concerts is server-rendered (curl --compressed) (2026-09-26).
 brooklynbowl.com: https://www.brooklynbowl.com/brooklyn/shows/all is server-rendered with full list (curl --compressed) (2026-09-26).
 bowerypresents.com: listings JSON at https://aegwebprod.blob.core.windows.net/json/resources/8/events/208lbnmkq5/events.json and .../7301mbln09/events.json (paths found in bowerypresents.com homepage HTML); fields: eventDateTime, title.headlinersText, venue.title, announceDateTime, onsaleDateTime, presaleDateTime. Covers NYC + other markets, filter by venue (2026-09-26).
@@ -87,3 +87,7 @@ metrograph.com: https://metrograph.com/calendar/ (redirects to /nyc/) is server-
 filmforum.org: https://filmforum.org/events lists Q&As/intros with date+time (plain curl); /now_playing has the weekly grid (2026-09-26).
 ifccenter.com: homepage https://www.ifccenter.com/ is server-rendered with "Special Events" (date, film, Q&A note), series and weekly showtimes (plain curl) (2026-09-26).
 nitehawkcinema.com: https://nitehawkcinema.com/williamsburg/ is server-rendered with today's showtimes + series tiles (plain curl); /prospectpark/ for Prospect Park (2026-09-26).
+quadcinema.com: homepage https://quadcinema.com/ is server-rendered with the week's showtime grid, Q&A notes and series dates (plain curl) (2026-09-26).
+lightindustry.org: https://lightindustry.org/calendar is plain HTML with dated events (homepage is just a menu) (2026-09-26).
+drafthouse.com: JS app; rendering https://drafthouse.com/nyc/theater/downtown-brooklyn needs sspa.prod.aws.drafthouse.com, which the proxy denies, so it needs permission (2026-09-26).
+Proxy-denied (network policy, 403 on CONNECT; needs permission, not a bot block): screenslate.com, www.anthologyfilmarchives.org (anthologyfilmarchives.org redirects there), bam.org, paristheaternyc.com, roxycinemanewyork.com, angelikafilmcenter.com, spectacletheater.com, amctheatres.com (2026-09-26).
