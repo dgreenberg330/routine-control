@@ -82,10 +82,3 @@ msg.com: /calendar is JS-rendered (0 events in HTML); no endpoint found yet (202
 livenation.com: homepage has no __NEXT_DATA__ event list; venue pages e.g. /venue/KovZpZA7AAEA/madison-square-garden-events not yet tried (2026-09-26).
 kingstheatre.com: connection failed (2026-09-26). ubsarena.com: 202 bot challenge (2026-09-26).
 
-SEEN LOG:
-(sent items, one per line: YYYY-MM-DD | category | item; prune entries older than 60 days)
-2026-09-26 | museums | Krasner and Pollock: Past Continuous — The Met (opens Oct 4)
-2026-09-26 | museums | Art of Manga — Brooklyn Museum (opens Oct 3)
-2026-09-26 | museums | Tarot! Renaissance Symbols, Modern Visions — The Morgan (closes Oct 4)
-2026-09-26 | museums | Whitney Biennial 2026 Floor 6 — Whitney (closes Oct 12)
-2026-09-26 | museums | Cézanne to Modigliani: Pearlman Collection — Brooklyn Museum (opens Oct 2)
