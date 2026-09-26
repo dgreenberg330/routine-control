@@ -7,7 +7,7 @@ Fri: pop-ups & events
 Sat: museums & exhibitions 
 Sun: sports
 
-GLOBAL PREFERENCES: Home base: Williamsburg. Brooklyn and Manhattan are in range. Flag anything in Queens, the Bronx, Staten Island, or NJ. 
+GLOBAL PREFERENCES: Home base: Williamsburg. Brooklyn and Manhattan are in range. Queens, the Bronx, Staten Island, or NJ are fine if big enough event.
 Max 5 picks per message, best first. Number each pick and list: who/what (all caps) - date — venue. Include whitespace between each pick. 
 ★ = watchlist hit. 
 Never invent lineups, dates, or prices.
@@ -23,7 +23,7 @@ Focus: Notable performers and artists I listen to.
 Fetch: bowerypresents.com + aegwebprod.blob.core.windows.net (the listings data for Terminal 5, Brooklyn Steel, Webster Hall, Bowery Ballroom, Forest Hills Stadium), msg.com (Madison Square Garden, Radio City, Beacon Theatre, Hulu Theater), livenation.com (Brooklyn Paramount, Irving Plaza, Hammerstein Ballroom), barclayscenter.com, brooklynbowl.com, dice.fm (Elsewhere, Knockdown Center, smaller rooms) 
 Search (bot-blocked or unreachable, so find shows via web search, not fetching): Kings Theatre, UBS Arena, MetLife Stadium, Citi Field concerts 
 Watchlist (artists/genres): 
-Notes: Stadium/arena shows in Queens or NJ are worth including despite the borough rule; just flag the location.
+Notes: Stadium/arena shows in Queens or NJ are worth including despite the borough rule.
 
 [TALKS & LECTURES] 
 Window: next 6 weeks. Big names sell out early — flag anything with limited tickets. 
