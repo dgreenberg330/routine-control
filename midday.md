@@ -31,7 +31,7 @@ Sources: 92ny.org, nypl.org, strandbooks.com, bklynlibrary.org, mcnallyjackson.c
 Watchlist (speakers/authors/topics): 
 Notes:
 
-[COMEDY] Window: today through Sunday (Cellar lineups post late Tuesday). 
+[COMEDY] Window: today through next Thursday (Cellar lineups post late Tuesday). 
 Sources: standup.nyc (aggregator), comedycellar.com (MacDougal St, Village Underground, Fat Black Pussycat), thestandnyc.com, newyorkcomedyclub.com, thebellhouseny.com 
 Watchlist (comics): 
 Notes: Favor stacked lineups, big names, drop-in-prone slots, and one-off specials over routine showcases.
