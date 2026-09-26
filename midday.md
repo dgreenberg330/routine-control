@@ -9,7 +9,7 @@ Sun: sports
 
 GLOBAL PREFERENCES: Home base: Williamsburg. Brooklyn and Manhattan are in range. Flag anything in Queens, the Bronx, Staten Island, or NJ. 
 Max 5 picks per message, best first. Number each pick and list: who/what (all caps) - date — time — venue. Include whitespace between each pick. 
-★ = watchlist hit. Flag conflicts with events.md (only if it's on that specific day. If an event runs multiple days, ignore conflict.) 
+★ = watchlist hit. 
 Never invent lineups, dates, or prices.
 
 SOURCE RULES: Aggregators are listed first per category; use them before venue sites. Fetch ladder for every source not marked Search:
