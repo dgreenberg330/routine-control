@@ -36,11 +36,12 @@ Sources: standup.nyc (aggregator), comedycellar.com (MacDougal St, Village Under
 Watchlist (comics): 
 Notes: Favor stacked lineups, big names, drop-in-prone slots, and one-off specials over routine showcases.
 
-[MOVIES] 
-Window: wide releases opening this weekend + repertory/special screenings in the next 2 weeks. 
-Sources: rottentomatoes.com (wide releases opening this week, with scores), metrograph.com, filmforum.org, ifccenter.com, filmlinc.org, nitehawkcinema.com 
-Watchlist (directors/actors/films): 
-Notes: Lead with the notable wide releases (include Rotten Tomatoes score if available), then Q&As, premieres, and 35mm/70mm screenings.
+[MOVIES]
+Window: wide releases opening this weekend + repertory/special screenings in the next 2 weeks.
+Sources: screenslate.com (aggregator: daily NYC repertory listings incl. format), rottentomatoes.com (wide releases opening this week, with scores), anthologyfilmarchives.org, metrograph.com, filmforum.org, ifccenter.com, filmlinc.org, quadcinema.com, bam.org, paristheaternyc.com, roxycinemanewyork.com, angelikafilmcenter.com (incl. Village East), nitehawkcinema.com, drafthouse.com (Alamo Brooklyn), spectacletheater.com, lightindustry.org, movingimage.org (Museum of the Moving Image, Astoria), amctheatres.com (IMAX 70mm/premium-format runs of wide releases)
+Search: "35mm NYC <Month> <Year>", "70mm NYC <Month> <Year>", "IMAX 70mm New York <film>" to catch format screenings not in the sources above.
+Watchlist (directors/actors/films):
+Notes: Lead with the notable wide releases (include Rotten Tomatoes score if available), then Q&As, premieres, and 35mm/70mm/IMAX 70mm screenings; always state the format when it's film. 
 
 [POP-UPS & EVENTS] 
 Window: this weekend + next 2 weeks. Prioritize anything needing a reservation or ticket. 
