@@ -54,15 +54,18 @@ Sources: metmuseum.org, moma.org, whitney.org, guggenheim.org, brooklynmuseum.or
 Watchlist:
 Notes: Lead with "last chance" closings.
 
-[SPORTS]
-Window: next month.
-Sources: espn.com
-Teams/events:
-Sports: NFL, MLB, NBA, NHL, UFC. 
-Notes: Favor quality matchups in the area and make a note whenever Philadelphia or Boston teams come to town. Also callout and highlight any unique sporting events going on.
-
 SOURCE NOTES:
 (working endpoints for JS-rendered sites go here, one line per source)
+whitney.org: https://whitney.org/exhibitions works directly (server-rendered).
+frick.org: https://www.frick.org/exhibitions works with plain GET (server-rendered; WebFetch gets 418, curl with browser UA gets 200).
+newmuseum.org: headless WordPress (Next.js/Faust); /exhibitions/ __NEXT_DATA__ has no exhibition list and /graphql/ is not publicly queryable — no working endpoint yet (2026-09-26).
+guggenheim.org: /exhibition is JS-rendered WordPress shell; no data endpoint found yet (2026-09-26).
+metmuseum.org, brooklynmuseum.org: return 429 to automated requests (2026-09-26).
+moma.org, themorgan.org: return 403 to automated requests (2026-09-26).
 
 SEEN LOG:
 (date sent | category | event | event date — prune after 60 days)
+2026-09-26 | museums | Whitney Biennial 2026 (closing) | through Oct 12, 2026
+2026-09-26 | museums | Andy Warhol Family Album, Whitney (closing) | through Oct 19, 2026
+2026-09-26 | museums | Roy Lichtenstein: Like New, Whitney (opening) | Oct 11, 2026
+2026-09-26 | museums | Siena: The Art of Bronze 1450–1500, Frick (opening) | Oct 15, 2026
