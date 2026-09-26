@@ -73,7 +73,7 @@ metmuseum.org, brooklynmuseum.org: return 429 to automated requests (2026-09-26)
 moma.org, themorgan.org: return 403 to automated requests (2026-09-26).
 timeout.com: /newyork/attractions/best-museum-exhibitions-in-nyc is stale (last updated Apr 6 2026) (2026-09-26).
 donyc.com: /events/art returns 404; needs a different listing path (2026-09-26).
-nycforfree.co: /resources/free-museums lists recurring free days/nights (2026-09-26).
+nycforfree.co: /resources/free-museums lists recurring free days/nights; 301-redirects, so use curl -L with browser UA (2026-09-26).
 barclayscenter.com: https://www.barclayscenter.com/events/category/concerts is server-rendered (curl --compressed); /events/all returns no list (2026-09-26).
 brooklynbowl.com: https://www.brooklynbowl.com/brooklyn/shows/all is server-rendered with full list (curl --compressed) (2026-09-26).
 ohmyrockness.com: /shows is JS-rendered from /api/shows.json?index=true&page=1&per=50&regioned=1, which returns "HTTP Token: Access denied" — no working endpoint (2026-09-26).
@@ -82,4 +82,10 @@ msg.com: /calendar is JS-rendered (0 events in HTML); no endpoint found yet (202
 livenation.com: homepage has no __NEXT_DATA__ event list; venue pages e.g. /venue/KovZpZA7AAEA/madison-square-garden-events not yet tried (2026-09-26).
 kingstheatre.com: connection failed (2026-09-26). ubsarena.com: 202 bot challenge (2026-09-26).
 
-
+SEEN LOG:
+(sent items, one per line: YYYY-MM-DD | category | item; prune entries older than 60 days)
+2026-09-26 | museums | Krasner and Pollock: Past Continuous — The Met (opens Oct 4)
+2026-09-26 | museums | Art of Manga — Brooklyn Museum (opens Oct 3)
+2026-09-26 | museums | Tarot! Renaissance Symbols, Modern Visions — The Morgan (closes Oct 4)
+2026-09-26 | museums | Whitney Biennial 2026 Floor 6 — Whitney (closes Oct 12)
+2026-09-26 | museums | Cézanne to Modigliani: Pearlman Collection — Brooklyn Museum (opens Oct 2)
