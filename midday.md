@@ -81,10 +81,4 @@ msg.com: /calendar is JS-rendered (0 events in HTML); no endpoint found yet (202
 livenation.com: homepage has no __NEXT_DATA__ event list; venue pages e.g. /venue/KovZpZA7AAEA/madison-square-garden-events not yet tried (2026-09-26).
 kingstheatre.com: connection failed (2026-09-26). ubsarena.com: 202 bot challenge (2026-09-26).
 
-SEEN LOG:
-(date sent | category | item)
-2026-09-26 | music | Stevie Wonder — Songs in the Key of Life 50th (Nov 19, MSG)
-2026-09-26 | music | Weezer w/ The Shins & Silversun Pickups (Sep 30, Barclays)
-2026-09-26 | music | The Smashing Pumpkins — Mellon Collie at 30 (Oct 4, Barclays)
-2026-09-26 | music | GZA performing Liquid Swords (Oct 15, Brooklyn Bowl)
-2026-09-26 | music | Brand New — Devil and God in concert (Oct 12, Barclays)
+
