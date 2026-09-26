@@ -81,4 +81,11 @@ bowerypresents.com, foresthillsstadium.com: listings load from aegwebprod.blob.c
 msg.com: /calendar is JS-rendered (0 events in HTML); no endpoint found yet (2026-09-26).
 livenation.com: homepage has no __NEXT_DATA__ event list; venue pages e.g. /venue/KovZpZA7AAEA/madison-square-garden-events not yet tried (2026-09-26).
 kingstheatre.com: connection failed (2026-09-26). ubsarena.com: 202 bot challenge (2026-09-26).
+espn.com: team schedules via JSON API https://site.api.espn.com/apis/site/v2/sports/{sport}/{league}/teams/{abbr}/schedule?seasontype={1 pre|2 reg|3 post} (abbrs: nyg nyj ny bkn nyr nyi nj nyy nym) (2026-09-26).
 
+SEEN LOG:
+2026-09-26 | sports | Red Sox @ Yankees AL Wild Card — Yankee Stadium (Sep 29–Oct 1)
+2026-09-26 | sports | 76ers @ Knicks — MSG (Oct 20)
+2026-09-26 | sports | Flyers @ Devils — Prudential Center (Oct 1)
+2026-09-26 | sports | Islanders @ Rangers — MSG (Oct 6)
+2026-09-26 | sports | Lightning @ Rangers — MSG (Oct 1)
