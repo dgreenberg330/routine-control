@@ -63,7 +63,7 @@ Notes: Favor quality matchups in the area and make a note whenever Philadelphia 
 
 SOURCE NOTES:
 (best working method per source, one line each, dated. A single failure is not a write-off: note it and retry next run. Only mark a source search-only for a deliberate block such as 403/429/bot challenge.)
-Search only, do not fetch (deliberate bot blocks): metmuseum.org, brooklynmuseum.org (429); moma.org, themorgan.org (403); frick.org (418 bot check); ubsarena.com (bot challenge) (2026-09-26).
+Search only, do not fetch (deliberate bot blocks): metmuseum.org, brooklynmuseum.org (429); moma.org, themorgan.org (403); frick.org (418 bot check); ubsarena.com (bot challenge); 92ny.org, nypl.org (Incapsula bot check); strandbooks.com, bklynlibrary.org (Cloudflare challenge); mcnallyjackson.com (403) (2026-09-26).
 barclayscenter.com: https://www.barclayscenter.com/events/category/concerts is server-rendered (curl --compressed) (2026-09-26).
 brooklynbowl.com: https://www.brooklynbowl.com/brooklyn/shows/all is server-rendered with full list (curl --compressed) (2026-09-26).
 bowerypresents.com: listings JSON at https://aegwebprod.blob.core.windows.net/json/resources/8/events/208lbnmkq5/events.json and .../7301mbln09/events.json (paths found in bowerypresents.com homepage HTML); fields: eventDateTime, title.headlinersText, venue.title, announceDateTime, onsaleDateTime, presaleDateTime. Covers NYC + other markets, filter by venue (2026-09-26).
