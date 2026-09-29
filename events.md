@@ -1,5 +1,3 @@
-Sep 28 (Mon): Eagles 8:15 PM
-
 Oct 1 (Thu): Small Cap Showcase Conference
 Oct 3 (Sat): Leave for Marlton
 Oct 4 (Sun): Eagles 1:00 PM
@@ -11,6 +9,7 @@ Oct 13 (Tue): Maxim Growth Summit 2026
 Oct 14 (Wed): Maxim Growth Summit 2026
 Oct 17 (Sat): Carly's bday
 Oct 18 (Sun): Eagles 1:00 PM
+Oct 20 (Tue): Axios Media Trends Conference (haven't signed up)
 Oct 22 (Thu): Group dinner (i schedule)
 Oct 26 (Mon): Eagles 8:15 PM
 Oct 31 (Sat): Halloween
