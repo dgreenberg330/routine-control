@@ -15,6 +15,7 @@ Oct 26 (Mon): Eagles 8:15 PM
 Oct 31 (Sat): Halloween
 
 Nov 1 (Sun): Eagles 8:20 PM
+Nov 1 (Sun): The Hunt
 Nov 7 (Sat): Lyla and Ben wedding
 Nov 8 (Sun): Eagles 1:00 PM
 Nov 16 (Mon): 13-F filing deadline
