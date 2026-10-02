@@ -1,4 +1,3 @@
-Oct 1 (Thu): Small Cap Showcase Conference
 Oct 3 (Sat): Leave for Marlton
 Oct 4 (Sun): Eagles 1:00 PM
 Oct 6 (Tue): D's bday
@@ -15,9 +14,9 @@ Oct 26 (Mon): Eagles 8:15 PM
 Oct 31 (Sat): Halloween
 
 Nov 1 (Sun): Eagles 8:20 PM
-Nov 1 (Sun): The Hunt
 Nov 7 (Sat): Lyla and Ben wedding
 Nov 8 (Sun): Eagles 1:00 PM
+Nov 14 (Sat): The Hunt
 Nov 16 (Mon): 13-F filing deadline
 Nov 18 (Wed): Jons bday
 Nov 21 (Sat): Poker? (i schedule)
