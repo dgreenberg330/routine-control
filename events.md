@@ -1,4 +1,3 @@
-Oct 3 (Sat): Leave for Marlton
 Oct 4 (Sun): Eagles 1:00 PM
 Oct 6 (Tue): D's bday
 Oct 7 (Wed): Minda 8:00 AM
