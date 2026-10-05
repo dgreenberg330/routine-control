@@ -1,4 +1,4 @@
-VIRTUE THIS WEEK: Silence — week of Mon Sep 28 – Sun Oct 4 (set via Telegram 9/28, update 108203943). 
+VIRTUE THIS WEEK: Silence — week of Mon Oct 5 – Sun Oct 11 (set via Telegram 10/4, update 108203951). 
 TRAVEL LOCATION: none — home in Williamsburg.
 EVENTS FORMAT (set via Telegram 8/24, update 108203929): List events as bullets grouped by TODAY (with day) / This week / Next month, each line as "• Day Mon DD — event time". Example:
   4) EVENTS
