@@ -8,8 +8,8 @@ Oct 14 (Wed): Maxim Growth Summit 2026
 Oct 17 (Sat): Carly's bday
 Oct 18 (Sun): Eagles 1:00 PM
 Oct 20 (Tue): Axios Media Trends Conference (haven't signed up)
-Oct 22 (Thu): Group dinner (i schedule)
 Oct 24 (Sat): Rocky Training 10:30 AM
+Oct 25 (Sun): Group football sesh (i schedule)
 Oct 26 (Mon): Eagles 8:15 PM
 Oct 31 (Sat): Halloween
 
