@@ -1,4 +1,3 @@
-Oct 6 (Tue): D's bday
 Oct 7 (Wed): Minda 8:00 AM
 Oct 8 (Thu): Leave for Half
 Oct 10 (Sat): Grandma's bday
