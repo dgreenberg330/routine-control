@@ -1,10 +1,10 @@
-Oct 7 (Wed): Minda 8:00 AM
 Oct 8 (Thu): Leave for Half
 Oct 10 (Sat): Grandma's bday
 Oct 11 (Sun): Eagles 9:30 AM
+Oct 12 (Mon): Cocktail Reception?, Knicks Game 7:30 PM
 Oct 13 (Tue): Maxim Growth Summit 2026
 Oct 14 (Wed): Maxim Growth Summit 2026
-Oct 17 (Sat): Carly's bday
+Oct 17 (Sat): Carly's bday, Movie 2:00 PM
 Oct 18 (Sun): Eagles 1:00 PM
 Oct 20 (Tue): Axios Media Trends Conference (haven't signed up)
 Oct 24 (Sat): Rocky Training 10:30 AM
