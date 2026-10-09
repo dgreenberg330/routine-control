@@ -1,4 +1,3 @@
-Oct 8 (Thu): Leave for Half
 Oct 10 (Sat): Grandma's bday
 Oct 11 (Sun): Eagles 9:30 AM
 Oct 12 (Mon): Cocktail Reception?, Knicks Game 7:30 PM
