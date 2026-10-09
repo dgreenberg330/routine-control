@@ -10,9 +10,10 @@ Sun: sports
 GLOBAL PREFERENCES: Home base: Williamsburg. Brooklyn and Manhattan are in range. Queens, the Bronx, Staten Island, or NJ are fine if big enough event.
 Max 5 picks per message, best first. Number each pick and list: who/what (all caps) - date — venue. Include whitespace between each pick. If you include also after the top 5, put in bullet format.
 ★ = watchlist hit. 
+Ranking (all categories): watchlist hits first, then star power. I skew toward notable, widely known names (celebrities, household-name artists and comics, famous athletes and media figures, arena/theater headliners) over niche, local or small-room picks. Aggregators are for finding events, not for ranking: a big name from a venue source beats a small show an aggregator highlights.
 Never invent lineups, dates, or prices.
 
-SOURCE RULES: Aggregators are listed first per category; use them before venue sites. Fetch ladder for every source not marked Search:
+SOURCE RULES: Aggregators are listed first per category; check them before venue sites, but still check the big-venue sources every run so major names aren't missed. Fetch ladder for every source not marked Search:
 1.	Use the method in SOURCE NOTES if one exists.
 2.	Otherwise plain fetch. If the listings are in the HTML, or the HTML points to a data file/API, use that.
 3.	Otherwise render the page with headless Chromium (Playwright), launched with executable_path='/opt/pw-browsers/chromium' (the browser build Playwright looks for by default is missing in this environment), wait for listings to load, and read the rendered page or the data requests it makes. Once a method works, record it in SOURCE NOTES so the next run goes straight to it. Replace outdated lines instead of adding duplicates. The browser is only for pages that need JavaScript. Never use it to get past logins, tokens, captchas, or bot checks; those sources stay on web search. If a listed domain is blocked or a page (including a rendered page's data requests) needs a domain not listed, do not work around it. Add a "Needs permission: <domain> (for <what>)" line at the bottom of the message.
@@ -28,8 +29,8 @@ Notes: Stadium/arena shows in Queens or NJ are worth including despite the borou
 [TALKS & LECTURES] 
 Window: next 6 weeks. Big names sell out early — flag anything with limited tickets. 
 Sources: bookevents.nyc (aggregator: NYC book events across Strand, McNally Jackson, BPL, etc.; Search, see SOURCE NOTES), 92ny.org, nypl.org, strandbooks.com, bklynlibrary.org (incl. Center for Brooklyn History), mcnallyjackson.com, greenlightbookstore.com, booksaremagic.net, pioneerworks.org, thetownhall.org, symphonyspace.org (big author tours often land at Town Hall or Symphony Space) 
-Watchlist (speakers/authors/topics): 
-Notes:
+Watchlist (speakers/authors/topics): Michael Douglas, Adam Schefter, Peter King 
+Notes: I skew toward notable public figures (actors, athletes, sports media, politicians, big-name journalists and celebrities) over literary or academic authors. Past picks I liked: Michael Douglas; Adam Schefter with Peter King.
 
 [COMEDY] Window: today through next Thursday (Cellar lineups post late Tuesday). 
 Sources: comedycellar.com (MacDougal St, Village Underground, Fat Black Pussycat), thestandnyc.com, newyorkcomedyclub.com, thebellhouseny.com, msg.com (comedy at MSG, Beacon Theatre, Radio City, Hulu Theater: reuse the msg.com method in SOURCE NOTES, keeping comedy instead of music), brooklyncc.com (Brooklyn Comedy Collective), unionhallny.com, littlefieldnyc.com 
