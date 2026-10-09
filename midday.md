@@ -29,8 +29,8 @@ Notes: Stadium/arena shows in Queens or NJ are worth including despite the borou
 [TALKS & LECTURES] 
 Window: next 6 weeks. Big names sell out early — flag anything with limited tickets. 
 Sources: bookevents.nyc (aggregator: NYC book events across Strand, McNally Jackson, BPL, etc.; Search, see SOURCE NOTES), 92ny.org, nypl.org, strandbooks.com, bklynlibrary.org (incl. Center for Brooklyn History), mcnallyjackson.com, greenlightbookstore.com, booksaremagic.net, pioneerworks.org, thetownhall.org, symphonyspace.org (big author tours often land at Town Hall or Symphony Space) 
-Watchlist (speakers/authors/topics): Michael Douglas, Adam Schefter, Peter King 
-Notes: I skew toward notable public figures (actors, athletes, sports media, politicians, big-name journalists and celebrities) over literary or academic authors. Past picks I liked: Michael Douglas; Adam Schefter with Peter King.
+Watchlist (speakers/authors/topics): Michael Douglas, Adam Schefter, Peter King; current or former presidents, secretaries of state and other major officeholders; legendary investors (e.g. Buffett, Dalio) 
+Notes: I enjoy talks and seminars, including serious ones, but skew toward notable figures: actors, athletes, sports media, big-name journalists and celebrities; presidents and major officeholders (a Kissinger-level name); top investors and business leaders (Buffett, Dalio types); and landmark thinkers (a Daniel Kahneman-level name, e.g. Nobel laureates). Rank literary or academic authors below these unless they are that famous. Past picks I liked: Michael Douglas; Adam Schefter with Peter King; Daniel Kahneman (college).
 
 [COMEDY] Window: today through next Thursday (Cellar lineups post late Tuesday). 
 Sources: comedycellar.com (MacDougal St, Village Underground, Fat Black Pussycat), thestandnyc.com, newyorkcomedyclub.com, thebellhouseny.com, msg.com (comedy at MSG, Beacon Theatre, Radio City, Hulu Theater: reuse the msg.com method in SOURCE NOTES, keeping comedy instead of music), brooklyncc.com (Brooklyn Comedy Collective), unionhallny.com, littlefieldnyc.com 
