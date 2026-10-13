@@ -1,4 +1,4 @@
-VIRTUE THIS WEEK: Silence — week of Mon Oct 5 – Sun Oct 11 (set via Telegram 10/4, update 108203951). 
+VIRTUE THIS WEEK: Cleanliness — week of Mon Oct 12 – Sun Oct 18 (set via Telegram 10/13, update 108203957). 
 TRAVEL LOCATION: none — home in Williamsburg.
 EVENTS FORMAT (set via Telegram 8/24, update 108203929): List events as bullets grouped by TODAY (with day) / This week / Next month, each line as "• Day Mon DD — event time". Example:
   4) EVENTS
