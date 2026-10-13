@@ -1,4 +1,3 @@
-Oct 12 (Mon): Cocktail Reception?, Knicks Game 7:30 PM
 Oct 13 (Tue): Maxim Growth Summit 2026
 Oct 14 (Wed): Maxim Growth Summit 2026
 Oct 17 (Sat): Carly's bday, Movie 2:00 PM
