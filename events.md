@@ -1,4 +1,3 @@
-Oct 14 (Wed): Maxim Growth Summit 2026
 Oct 17 (Sat): Carly's bday, Movie 2:00 PM
 Oct 18 (Sun): Eagles 1:00 PM
 Oct 20 (Tue): Axios Media Trends Conference (haven't signed up), Sixers vs Knicks 7:00 PM
