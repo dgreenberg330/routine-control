@@ -1,4 +1,3 @@
-Oct 18 (Sun): Eagles 1:00 PM
 Oct 20 (Tue): Axios Media Trends Conference (haven't signed up), Sixers vs Knicks 7:00 PM
 Oct 24 (Sat): Rocky Training 10:30 AM
 Oct 25 (Sun): Group football sesh (i schedule)
