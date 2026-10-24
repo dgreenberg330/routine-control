@@ -15,7 +15,7 @@ Nov 10 (Tue): Sixers vs Celtics 8:00 PM
 Nov 14 (Sat): Jon Bday Dinner
 Nov 16 (Mon): 13-F filing deadline
 Nov 18 (Wed): Jons bday
-Nov 21 (Sat): Poker? (i schedule)
+Nov 21 (Sat): Paulette visit, Poker? (i schedule)
 Nov 22 (Sun): Eagles 4:25 PM
 Nov 24 (Tue): ITRN 9:00 AM
 Nov 26 (Thu): Thanksgiving, Eagles: 4:30 PM
@@ -31,4 +31,3 @@ Dec 25 (Fri): Christmas, cancel perplexity
 Dec 31 (Thu): New Year's Eve
 
 Jan 3 (Sun): Eagles @ 49ers 8:20 PM
-Jan 9/10 (Sat/Sun): Eagles @ Giants (Week 18, date/time TBD)
