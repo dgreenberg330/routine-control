@@ -1,4 +1,3 @@
-Oct 25 (Sun): Group football sesh (i schedule)
 Oct 26 (Mon): ZDGE 4:30 PM, Eagles 8:15 PM
 Oct 27 (Tue): GLXY 3Q26 8:30 AM
 Oct 30 (Fri): Sixers vs Knicks 7:30 PM
