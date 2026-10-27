@@ -1,4 +1,3 @@
-Oct 26 (Mon): ZDGE 4:30 PM, Eagles 8:15 PM
 Oct 27 (Tue): GLXY 3Q26 8:30 AM
 Oct 30 (Fri): Sixers vs Knicks 7:30 PM
 Oct 31 (Sat): Halloween
@@ -13,7 +12,7 @@ Nov 10 (Tue): Sixers vs Celtics 8:00 PM
 Nov 14 (Sat): Jon Bday Dinner
 Nov 16 (Mon): 13-F filing deadline
 Nov 18 (Wed): Jons bday
-Nov 21 (Sat): Paulette visit, Poker? (i schedule)
+Nov 21 (Sat): Paulette visit, Sarah bday 8:00 PM
 Nov 22 (Sun): Eagles 4:25 PM
 Nov 24 (Tue): ITRN 9:00 AM
 Nov 26 (Thu): Thanksgiving, Eagles: 4:30 PM
