@@ -1,4 +1,3 @@
-Oct 27 (Tue): GLXY 3Q26 8:30 AM
 Oct 30 (Fri): Sixers vs Knicks 7:30 PM
 Oct 31 (Sat): Halloween
 
