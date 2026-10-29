@@ -11,6 +11,7 @@ Nov 10 (Tue): Sixers vs Celtics 8:00 PM
 Nov 14 (Sat): Jon Bday Dinner
 Nov 16 (Mon): 13-F filing deadline
 Nov 18 (Wed): Jons bday
+Nov 19 (Thu): Maxim Pickleball Tournament
 Nov 21 (Sat): Paulette visit, Sarah bday 8:00 PM
 Nov 22 (Sun): Eagles 4:25 PM
 Nov 24 (Tue): ITRN 9:00 AM
