@@ -1,4 +1,3 @@
-Oct 30 (Fri): Sixers vs Knicks 7:30 PM
 Oct 31 (Sat): Halloween
 
 Nov 1 (Sun): Marathon, Eagles 8:20 PM
