@@ -1,12 +1,13 @@
-Oct 31 (Sat): Halloween
-
 Nov 1 (Sun): Marathon, Eagles 8:20 PM
 Nov 3 (Tue): CXDO 4:30 PM
 Nov 4 (Wed): HUT 3Q26 8:30 AM, FATN 4:30 PM, XPER 5:00 PM
 Nov 5 (Thu): CCLD 8:30 AM, INOD 5:00 PM
+Nov 6 (Fri): CTM 10:00 AM, train 7:00 PM
 Nov 7 (Sat): Lyla and Ben wedding
 Nov 8 (Sun): Eagles 1:00 PM
+Nov 9 (Mon): OXBR 4:30 PM, WELL 5:30 PM
 Nov 10 (Tue): Sixers vs Celtics 8:00 PM
+Nov 12 (Thu): HIT 5:00 PM
 Nov 14 (Sat): Jon Bday Dinner
 Nov 16 (Mon): 13-F filing deadline
 Nov 18 (Wed): Jons bday
