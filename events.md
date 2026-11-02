@@ -1,4 +1,3 @@
-Nov 1 (Sun): Marathon, Eagles 8:20 PM
 Nov 3 (Tue): CXDO 4:30 PM
 Nov 4 (Wed): HUT 3Q26 8:30 AM, FATN 4:30 PM, XPER 5:00 PM
 Nov 5 (Thu): CCLD 8:30 AM, INOD 5:00 PM
