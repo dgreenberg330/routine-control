@@ -1,4 +1,3 @@
-Nov 4 (Wed): HUT 3Q26 8:30 AM, FATN 4:30 PM, XPER 5:00 PM
 Nov 5 (Thu): CCLD 8:30 AM, INOD 5:00 PM
 Nov 6 (Fri): CTM 10:00 AM, train 7:00 PM
 Nov 7 (Sat): Lyla and Ben wedding
