@@ -1,4 +1,3 @@
-Nov 6 (Fri): CTM 10:00 AM, train 7:00 PM
 Nov 7 (Sat): Lyla and Ben wedding
 Nov 8 (Sun): Eagles 1:00 PM
 Nov 9 (Mon): OXBR 4:30 PM, WELL 5:30 PM
