@@ -1,4 +1,4 @@
-VIRTUE THIS WEEK: Love — week of Mon Nov 2 – Sun Nov 8 (set via Telegram 11/1, update 108203982). 
+VIRTUE THIS WEEK: Resolution — week of Mon Nov 9 – Sun Nov 15 (set via Telegram 11/9, update 108203986). 
 TRAVEL LOCATION: none — home in Williamsburg.
 EVENTS FORMAT (set via Telegram 8/24, update 108203929): List events as bullets grouped by TODAY (with day) / This week / Next month, each line as "• Day Mon DD — event time". Example:
   4) EVENTS
