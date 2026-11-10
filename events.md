@@ -1,4 +1,3 @@
-Nov 9 (Mon): OXBR 4:30 PM, WELL 5:30 PM
 Nov 10 (Tue): AIDX 8:30 AM, DLPN 5:30 PM, Sixers vs Celtics 8:00 PM
 Nov 12 (Thu): HIT 5:00 PM
 Nov 14 (Sat): Jon Bday Dinner
@@ -10,7 +9,7 @@ Nov 22 (Sun): Eagles 4:25 PM
 Nov 24 (Tue): ITRN 9:00 AM
 Nov 26 (Thu): Thanksgiving, Eagles: 4:30 PM
 
-Dec 5 (Sat): Hannukah
+Dec 5 (Sat): Hannukah, Here There Are Blueberries 7:00 PM
 Dec 6 (Sun): Eagles 4:05 PM
 Dec 12 (Sat): Dad bday
 Dec 13 (Sun): Eagles 1:00 PM
