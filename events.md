@@ -1,4 +1,3 @@
-Nov 10 (Tue): AIDX 8:30 AM, DLPN 5:30 PM, Sixers vs Celtics 8:00 PM
 Nov 12 (Thu): HIT 5:00 PM
 Nov 14 (Sat): Jon Bday Dinner
 Nov 16 (Mon): 13-F filing deadline
