@@ -1,4 +1,3 @@
-Nov 12 (Thu): HIT 5:00 PM
 Nov 13 (Fri): DEFI 11:00 AM
 Nov 14 (Sat): Jon Bday Dinner 9:30 PM
 Nov 16 (Mon): ELWT 8:00 AM, 13-F filing deadline
@@ -12,6 +11,8 @@ Nov 26 (Thu): Thanksgiving, Eagles: 4:30 PM
 
 Dec 5 (Sat): Hannukah, Here There Are Blueberries 7:00 PM
 Dec 6 (Sun): Eagles 4:05 PM
+Dec 9 (Wed): Headshots (wear suit)
+Dec 10 (Thu): Headshots (wear suit)
 Dec 12 (Sat): Dad bday
 Dec 13 (Sun): Eagles 1:00 PM
 Dec 16 (Wed): Work holiday party 5:30 PM
