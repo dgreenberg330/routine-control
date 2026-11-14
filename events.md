@@ -1,4 +1,3 @@
-Nov 13 (Fri): DEFI 11:00 AM
 Nov 14 (Sat): Jon Bday Dinner 9:30 PM
 Nov 16 (Mon): ELWT 8:00 AM, 13-F filing deadline
 Nov 17 (Tue): RSSS 9:00 AM
