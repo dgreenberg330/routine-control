@@ -1,9 +1,8 @@
-Nov 16 (Mon): ELWT 8:00 AM, 13-F filing deadline
 Nov 17 (Tue): RSSS 9:00 AM
 Nov 18 (Wed): Jons bday, IDAI 11:00 AM
 Nov 19 (Thu): Maxim Pickleball Tournament
 Nov 21 (Sat): Paulette visit, Sarah bday 8:00 PM
-Nov 22 (Sun): Eagles 4:25 PM
+Nov 22 (Sun): Eagles 1:00 PM
 Nov 24 (Tue): ITRN 9:00 AM
 Nov 26 (Thu): Thanksgiving, Eagles: 4:30 PM
 
