@@ -1,4 +1,3 @@
-Nov 17 (Tue): RSSS 9:00 AM
 Nov 18 (Wed): Jons bday, IDAI 11:00 AM
 Nov 19 (Thu): Maxim Pickleball Tournament
 Nov 21 (Sat): Paulette visit, Sarah bday 8:00 PM
