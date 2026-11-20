@@ -1,13 +1,13 @@
-Nov 19 (Thu): Maxim Pickleball Tournament
 Nov 21 (Sat): Paulette visit, Sarah bday 8:00 PM
 Nov 22 (Sun): Eagles 1:00 PM
 Nov 24 (Tue): ITRN 9:00 AM
 Nov 26 (Thu): Thanksgiving, Eagles: 4:30 PM
 
+Dec 1 (Tue): Quantum conference
 Dec 5 (Sat): Hannukah, Here There Are Blueberries 7:00 PM
 Dec 6 (Sun): Eagles 4:05 PM
 Dec 9 (Wed): Headshots (wear suit)
-Dec 10 (Thu): Headshots (wear suit)
+Dec 10 (Thu): Headshots (wear suit), Media conference
 Dec 12 (Sat): Dad bday
 Dec 13 (Sun): Eagles 1:00 PM
 Dec 16 (Wed): Work holiday party 5:30 PM
