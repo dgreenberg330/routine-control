@@ -1,4 +1,3 @@
-Nov 21 (Sat): Paulette visit, Sarah bday 8:00 PM
 Nov 22 (Sun): Eagles 1:00 PM
 Nov 24 (Tue): ITRN 9:00 AM
 Nov 26 (Thu): Thanksgiving, Eagles: 4:30 PM
