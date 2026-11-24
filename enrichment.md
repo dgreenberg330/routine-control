@@ -1,5 +1,5 @@
-VIRTUE THIS WEEK: Temperance — week of Mon Nov 16 – Sun Nov 22 (set via Telegram 11/15, update 108203995). 
-TRAVEL LOCATION: none — home in Williamsburg.
+VIRTUE THIS WEEK: Love — week of Mon Nov 23 – Sun Nov 29 (set via Telegram 11/23, update 108203998). 
+TRAVEL LOCATION: Newton, MA (42.337, -71.209) — Tue Nov 24 through Sun Nov 29, 2026 (Thanksgiving; set via Telegram 11/23, update 108203998). Morning brief only. Clear after Nov 29 and return to Williamsburg.
 EVENTS FORMAT (set via Telegram 8/24, update 108203929): List events as bullets grouped by TODAY (with day) / This week / Next month, each line as "• Day Mon DD — event time". Example:
   4) EVENTS
   TODAY (Sat):
