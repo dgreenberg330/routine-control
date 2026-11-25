@@ -1,4 +1,3 @@
-Nov 24 (Tue): ITRN 9:00 AM
 Nov 26 (Thu): Thanksgiving, Eagles: 4:30 PM
 
 Dec 1 (Tue): Quantum conference
