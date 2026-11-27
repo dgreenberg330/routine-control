@@ -1,5 +1,3 @@
-Nov 26 (Thu): Thanksgiving, Eagles: 4:30 PM
-
 Dec 1 (Tue): Quantum conference
 Dec 5 (Sat): Hannukah, Here There Are Blueberries 7:00 PM
 Dec 6 (Sun): Eagles 4:05 PM
